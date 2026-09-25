@@ -17,7 +17,7 @@
       { "label": "THE INVESTMENT", "text": "$3,000 USD per month, flat, for both profiles. Six-month term with a three-month opt-out. Covers both raises. No setup fee, no success fee, no commission, no carve-out of the equity you’ve already raised, no transaction involvement." }
     ],
     "band": { "label": "WHAT TO EXPECT",
-              "text": "Outreach live within two weeks of kickoff and the full flow from about day 30: 2–4 qualified meetings per week across both profiles, weekly reporting and a data-driven checkpoint in December. One honest note for ownership: raises historically take 6–12 months from first outreach to capital in the bank. Your track record helps, but a new investor still needs time to diligence a new sponsor, so new relationships are most likely to land in the $3.5M raise and the ones after it. For the $2M due in four months, your existing investors and EMD partners stay the backstop." }
+              "text": "Outreach live within two weeks of kickoff and the full flow from about day 30: 2–4 qualified meetings per week across both profiles, every one routed to your IR rep to close, with weekly reporting and a data-driven checkpoint in December. That puts new investors in conversation with Pinemount well ahead of both top-ups: the $2M in about four months and the $3.5M in 6–8. We put the right investors on your calendar; your team runs the process and closes." }
   },
 
   "gap": {
@@ -59,8 +59,8 @@
       { "label": "QUALIFIED MEETINGS",     "number": "2–4",   "unit": "per week at steady state (month 2 onward)", "text": "Conservatively 1–2 per profile per week once calibrated; strong audiences run more. Not a guarantee, but the range we plan around." },
       { "label": "TIME TO FIRST MEETINGS", "number": "3–4",   "unit": "weeks from kickoff to first booked calls",  "text": "Weeks one and two are setup: ICP, audiences, scripts, profile warm-up. A first meeting can land early; the full flow of meetings starts around day 30." }
     ],
-    "band": { "label": "WHAT “QUALIFIED” MEANS, AND THE HONEST TIMELINE",
-              "text": "A qualified meeting is an accredited or high-net-worth individual, fund or family office with a verified history of similar investments, who passed scoring and human review, completed the self-qualification form on booking, and whose briefing you approved. Raises historically take 6–12 months from first outreach to capital in the bank. We’ll have new investors on your calendar quickly; the close depends on your process and their diligence, and we’d rather you hear that from us now." }
+    "band": { "label": "WHAT “QUALIFIED” MEANS, AND WHEN THEY LAND",
+              "text": "A qualified meeting is an accredited or high-net-worth individual, fund or family office with a verified history of similar investments, who passed scoring and human review, completed the self-qualification form on booking, and whose briefing you approved. We’ll have new investors on your calendar from week three, well ahead of your top-up dates; the close depends on your process and their diligence." }
   },
 
   "ninety_days": {
