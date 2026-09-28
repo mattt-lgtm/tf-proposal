@@ -1,27 +1,39 @@
 {
-  "_comment": "Fundraising proposal for GV Correct (Don Hammond, CEO). Built from the Sep 2026 second call with Matt (Ben on the first). $3.5M seed, angels primary (US-weighted), family offices US/UK/UAE secondary. Two pricing tiers: 2 executive profiles at $3,000, 3 at $4,000. Profiles are executive team members, unnamed. Walkthrough call Tue Sep 29, 2:30pm ET with Freizle.",
+  "_comment": "Fundraising proposal for GV Correct (Don Hammond, CEO). Built from the Sep 2026 second call with Matt (Ben on the first). $3.5M seed, family offices (US/UK/UAE, Don's lead target) and angels ($150K min) targeted together; no VCs, no big strategics. The 400-500 investors his team already contacted are the do-not-contact list; other existing data pulled in with his approval. Two pricing tiers: 2 executive profiles at $3,000, 3 at $4,000. Profiles are executive team members, unnamed. Walkthrough call Tue Sep 29, 2:30pm ET with Freizle.",
   "mode": "fundraising",
   "output_file": "ThinkFISH_Proposal_GV_Correct.pptx",
   "date": "September 2026",
   "client": {
     "display_name": "GV Correct",
     "short_name": "GV Correct",
-    "contacts": ["Don"],
+    "contacts": [
+      "Don"
+    ],
     "prepared_for": "Don Hammond, CEO"
   },
-
-  "include": { "architecture": false },
-
+  "include": {
+    "architecture": false
+  },
   "summary": {
     "cards": [
-      { "label": "THE ASK",        "text": "$3.5M seed to close out FDA1 for non-surgical pediatric knock-knee and bow-leg correction, fund clinical testing, manufacturing and launch, and start FDA2. 18+ months of runway, selling within 12–15 months. $150K minimum check, from angels and family offices, not VCs or large strategics. Goal: the full amount committed before year-end." },
-      { "label": "THE PLAN",       "text": "Two or three GV Correct executive LinkedIn profiles, run end to end by ThinkFISH in your voice. Targeting the tier that writes $150K–$500K medtech checks: surgeon and physician angels, medtech operator-angels, and US, UK and UAE family offices with pediatrics or wearables in the portfolio. Every meeting pre-qualified and approved by you." },
-      { "label": "THE INVESTMENT", "text": "$3,000 per month for two executive profiles, or $4,000 per month for three, flat. Six-month term with a three-month opt-out. No setup fee, no success fee, no commission, no transaction involvement." }
+      {
+        "label": "THE ASK",
+        "text": "$3.5M seed to close out FDA1 for non-surgical pediatric knock-knee and bow-leg correction, fund clinical testing, manufacturing and launch, and start FDA2. 18+ months of runway, selling within 12–15 months. $150K minimum check, from angels and family offices, not VCs or large strategics. Goal: the full amount committed before year-end."
+      },
+      {
+        "label": "THE PLAN",
+        "text": "Two or three GV Correct executive LinkedIn profiles, run end to end by ThinkFISH in your voice. Targeting family offices in the US, UK and UAE with pediatrics, wearables or medtech in the portfolio, and the surgeon and physician angels driving medtech’s seed rounds: $150K–$500K checks, around $1M from family offices. Every meeting pre-qualified and approved by you."
+      },
+      {
+        "label": "THE INVESTMENT",
+        "text": "$3,000 per month for two executive profiles, or $4,000 per month for three, flat. Six-month term with a three-month opt-out. No setup fee, no success fee, no commission, no transaction involvement."
+      }
     ],
-    "band": { "label": "WHAT TO EXPECT",
-              "text": "Outreach live within two weeks of kickoff. First qualified investor conversations in weeks three and four, building to 2–4 qualified meetings a week on two profiles, or 3–6 on three, from November, with weekly reporting. One honest note: pre-revenue raises historically take 6–12 months from first outreach to capital in the bank. We can put the right angels and family offices on your calendar well before year-end; whether the full $3.5M closes by December depends on your process and each investor’s diligence, and we’d rather you hear that from us now." }
+    "band": {
+      "label": "WHAT TO EXPECT",
+      "text": "Outreach live within two weeks of kickoff. First qualified investor conversations in weeks three and four, building to 2–4 qualified meetings a week on two profiles, or 3–6 on three, from November, with weekly reporting. One honest note: pre-revenue raises historically take 6–12 months from first outreach to capital in the bank. We can put the right angels and family offices on your calendar well before year-end; whether the full $3.5M closes by December depends on your process and each investor’s diligence, and we’d rather you hear that from us now."
+    }
   },
-
   "gap": {
     "narrative": "In under a year you’ve rebuilt the company: go-to-market, pricing, cash-flow model and product roadmap, a team with 15, 25 and 20+ years in medtech, life sciences and FDA regulatory, plus a medical advisory board and clinical testing partners. Investors are responding: of six first meetings, four went to a second round and two to a third. The gap is structural. Your deepest network is in tech, and medtech capital plays it much closer to the vest.",
     "principle": "Fundraising is a volume game at the right tier. You’ve already met one or two puzzle-piece investors through your own network. The variable you control is how many more of them enter the top of your funnel every week, until it’s seven, not two.",
@@ -32,39 +44,109 @@
       "Missing the September to mid-December window, when capital is most active, and carrying the raise into next year on a network that was built for tech, not medtech."
     ]
   },
-
   "icp": {
     "segments": [
-      { "name": "Orthopedic & Pediatric Surgeon Angels",   "why": "Practicing and retired surgeons who treat knock-knee and bow-leg every week, and know “come back in 6–12 months” no longer works for parents." },
-      { "name": "Physician & Retired-Doctor Angels",       "why": "Physicians with capital and time who back clinical products they understand; the angel-heavy pool you’ve seen dominate medtech this year." },
-      { "name": "Medtech & Life Sciences Operator-Angels", "why": "Exited founders and executives from med device, orthopedics and digital health who write lead checks and value a fast, DTC FDA path." },
-      { "name": "Wearables & Consumer-Health Angels",      "why": "Investors in wearables, connected health and parenting tech who read the pressure-sensor data and app as the long-term asset." },
-      { "name": "Family Offices  ·  US, UK & UAE",          "why": "Family offices with pediatrics, wearables or medtech in the portfolio, writing $500K+ checks. Secondary to angels, run in parallel." }
+      {
+        "name": "Family Offices  ·  Pediatrics & Wearables",
+        "why": "US, UK and UAE family offices that have already backed pediatrics or wearables. Your best fit: they know the category and the data play."
+      },
+      {
+        "name": "Family Offices  ·  Life Sciences & Medtech",
+        "why": "US, UK and UAE family offices with life sciences or medtech experience, writing around $1M, often with a board seat."
+      },
+      {
+        "name": "Orthopedic & Pediatric Surgeon Angels",
+        "why": "Practicing and retired surgeons who treat knock-knee and bow-leg every week, and know “come back in 6–12 months” no longer works for parents."
+      },
+      {
+        "name": "Physician & Retired-Doctor Angels",
+        "why": "Physicians with capital and time who back clinical products they understand. Medtech seed has proven far more angel-driven than tech."
+      },
+      {
+        "name": "Medtech & Life Sciences Operator-Angels",
+        "why": "Exited founders and executives from med device, orthopedics and digital health who write lead checks and value a fast, DTC FDA path."
+      }
     ],
-    "note": "A starting point: angels first, US-weighted; no VCs, $150K minimum. Check sizes, geographies and exclusions, including the investors your team has already contacted, get finalized with you in onboarding."
+    "note": "$150K minimum; ~$500K earns a board seat, five max. No VCs, Medtronic or J&J. Past contacts excluded; other data used with your approval."
   },
-
   "expect": {
     "cards": [
-      { "label": "OUTREACH VOLUME",        "number": "2,400+", "unit": "LinkedIn touches / month, 2–3 profiles",    "text": "600–800 InMails and 600–800 connection invites per profile every month once warmed up: 2,400+ on two profiles, 3,600+ on three. Every touch scored and hand-reviewed first." },
-      { "label": "QUALIFIED MEETINGS",     "number": "2–6",    "unit": "per week at steady state (month 2 onward)", "text": "Conservatively 1–2 per profile per week once calibrated: 2–4 on two profiles, 3–6 on three. Not a guarantee, but the range we deliver consistently." },
-      { "label": "TIME TO FIRST MEETINGS", "number": "3–4",    "unit": "weeks from kickoff to first booked calls",  "text": "Weeks one and two are setup: ICP, audiences, scripts, profile warm-up. Live outreach starts in week three, and the first replies and bookings follow within days." }
+      {
+        "label": "OUTREACH VOLUME",
+        "number": "2,400+",
+        "unit": "LinkedIn touches / month, 2–3 profiles",
+        "text": "600–800 InMails and 600–800 connection invites per profile every month once warmed up: 2,400+ on two profiles, 3,600+ on three. Every touch scored and hand-reviewed first."
+      },
+      {
+        "label": "QUALIFIED MEETINGS",
+        "number": "2–6",
+        "unit": "per week at steady state (month 2 onward)",
+        "text": "Conservatively 1–2 per profile per week once calibrated: 2–4 on two profiles, 3–6 on three. Not a guarantee, but the range we deliver consistently."
+      },
+      {
+        "label": "TIME TO FIRST MEETINGS",
+        "number": "3–4",
+        "unit": "weeks from kickoff to first booked calls",
+        "text": "Weeks one and two are setup: ICP, audiences, scripts, profile warm-up. Live outreach starts in week three, and the first replies and bookings follow within days."
+      }
     ]
   },
-
   "ninety_days": {
     "columns": [
-      { "label": "WEEKS 1-2  ·  EARLY OCT", "title": "Setup & Calibration", "bullets": ["Onboarding interview with Don", "Investor ICP and audiences built", "Exec profiles optimized and warmed", "Scripts approved in your voice"] },
-      { "label": "WEEKS 3-4  ·  LATE OCT",  "title": "First Live Outreach", "bullets": ["Live on every executive profile", "First replies, first booked meetings", "A/B tests: surgeon vs FO openers"] },
-      { "label": "MONTH 2  ·  NOVEMBER",    "title": "Steady Flow",         "bullets": ["Steady weekly investor meetings", "Targeting tightened on real replies", "Segment reporting: what converts"] },
-      { "label": "MONTH 3  ·  DECEMBER",    "title": "Year-End Push",       "bullets": ["Full pipeline into the Dec 15 close", "Prove-out review on three months", "Your 3-month opt-out checkpoint"] }
+      {
+        "label": "WEEKS 1-2  ·  EARLY OCT",
+        "title": "Setup & Calibration",
+        "bullets": [
+          "Onboarding interview with Don",
+          "Family office and angel ICP built",
+          "Exec profiles optimized and warmed",
+          "Scripts approved in your voice"
+        ]
+      },
+      {
+        "label": "WEEKS 3-4  ·  LATE OCT",
+        "title": "First Live Outreach",
+        "bullets": [
+          "Live on every executive profile",
+          "First replies, first booked meetings",
+          "A/B tests: family office vs angel"
+        ]
+      },
+      {
+        "label": "MONTH 2  ·  NOVEMBER",
+        "title": "Steady Flow",
+        "bullets": [
+          "Steady weekly investor meetings",
+          "Targeting tightened on real replies",
+          "Segment reporting: what converts"
+        ]
+      },
+      {
+        "label": "MONTH 3  ·  DECEMBER",
+        "title": "Year-End Push",
+        "bullets": [
+          "Full pipeline into the Dec 15 close",
+          "Prove-out review on three months",
+          "Your 3-month opt-out checkpoint"
+        ]
+      }
     ],
-    "band": { "label": "THE THREE-MONTH CHECKPOINT",
-              "text": "By the end of month three you’ll have real numbers on audience quality, meeting quality and conversions, and a clear view of how much of the $3.5M came through this pipeline versus your own network. That is your opt-out checkpoint: continue into the FDA2 and Series A conversations, scale to another profile, or stop. The decision gets made on data, not on faith." }
+    "band": {
+      "label": "THE THREE-MONTH CHECKPOINT",
+      "text": "By the end of month three you’ll have real numbers on audience quality, meeting quality and conversions, and a clear view of how much of the $3.5M came through this pipeline versus your own network. That is your opt-out checkpoint: continue into the FDA2 and Series A conversations, scale to another profile, or stop. The decision gets made on data, not on faith."
+    }
   },
-
   "pricing": {
-    "options": [ { "price": "$3,000", "unit": "month  ·  2 profiles" }, { "price": "$4,000", "unit": "month  ·  3 profiles" } ],
+    "options": [
+      {
+        "price": "$3,000",
+        "unit": "month  ·  2 profiles"
+      },
+      {
+        "price": "$4,000",
+        "unit": "month  ·  3 profiles"
+      }
+    ],
     "term": "6-month term  ·  3-month opt-out  ·  2 or 3 executive profiles",
     "bullets": [
       "Two or three executive LinkedIn profiles, fully managed",
@@ -75,25 +157,37 @@
       "Profile optimization, pitch & deck support",
       "CRM, weekly reporting, A/B testing & optimization"
     ],
-    "buys": { "label": "WHAT THAT BUYS", "bullets": [
-      "A third executive profile adds 50% more outreach and its own audience for a third more on the retainer",
-      "Compare: investment bankers decline sub-$10M mandates; crowdfunding platforms cost 20–30% of the raise in marketing spend",
-      "No success fee or commission on any capital raised, and the relationships built now carry into the FDA2 and Series A rounds",
-      "One dedicated account manager, one CRM and one weekly report across every executive profile",
-      "The three-month opt-out means the year-end decision is made on real numbers, not on faith"
-    ] }
+    "buys": {
+      "label": "WHAT THAT BUYS",
+      "bullets": [
+        "A third executive profile adds 50% more outreach and its own audience for a third more on the retainer",
+        "Compare: investment bankers decline sub-$10M mandates; crowdfunding platforms cost 20–30% of the raise in marketing spend",
+        "No success fee or commission on any capital raised, and the relationships built now carry into the FDA2 and Series A rounds",
+        "One dedicated account manager, one CRM and one weekly report across every executive profile",
+        "The three-month opt-out means the year-end decision is made on real numbers, not on faith"
+      ]
+    }
   },
-
   "next_steps": {
     "cards": [
-      { "label": "1  ·  REVIEW",          "text": "We’ll walk through this plan with you on Tuesday, September 29 at 2:30pm ET: where our data comes from, who we target, our track record and how the timeline plays out. Freizle, our COO, joins to answer the strategy and process questions directly. Send anything you want covered before then." },
-      { "label": "2  ·  SIGN & KICK OFF", "text": "We send the services agreement the same day you say yes. Onboarding starts that week: the interview with Don, profile optimization for each executive, and access to your front-end and comprehensive decks, so outreach can go live in October." },
-      { "label": "3  ·  FIRST MEETINGS",  "text": "Every profile is live within two weeks of kickoff. The first qualified investor conversations land on your calendar in weeks three and four, then build to a steady weekly rhythm through November and into the mid-December close." }
+      {
+        "label": "1  ·  REVIEW",
+        "text": "We’ll walk through this plan with you on Tuesday, September 29 at 2:30pm ET: where our data comes from, who we target, our track record and how the timeline plays out. Freizle, our COO, joins to answer the strategy and process questions directly. Send anything you want covered before then."
+      },
+      {
+        "label": "2  ·  SIGN & KICK OFF",
+        "text": "We send the services agreement the same day you say yes. Onboarding starts that week: the interview with Don, profile optimization for each executive, and access to your front-end and comprehensive decks, so outreach can go live in October."
+      },
+      {
+        "label": "3  ·  FIRST MEETINGS",
+        "text": "Every profile is live within two weeks of kickoff. The first qualified investor conversations land on your calendar in weeks three and four, then build to a steady weekly rhythm through November and into the mid-December close."
+      }
     ],
-    "band": { "label": "WHAT WE NEED FROM YOU",
-              "text": "Connect two or three executive LinkedIn accounts to our system (no passwords or login credentials required). Share both decks and the 400–500 investors your team has already contacted, including every first-, second- and third-round conversation, so we exclude them. One 60-minute onboarding interview. A Calendly link for each profile, and a do-not-contact list if there’s anyone we should avoid. We handle the rest." }
+    "band": {
+      "label": "WHAT WE NEED FROM YOU",
+      "text": "Connect two or three executive LinkedIn accounts to our system (no passwords or login credentials required). Share both decks, plus the 400–500 investors your team has already contacted, which become the do-not-contact list; any other lists or research you have, we pull into the campaign with your approval. One 60-minute onboarding interview and a Calendly link for each profile. We handle the rest."
+    }
   },
-
   "deliverables": {
     "number": "2,400+",
     "unit": "LinkedIn touches / month, 2–3 profiles",
