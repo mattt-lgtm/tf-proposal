@@ -1,0 +1,110 @@
+{
+  "_comment": "Fundraising proposal for SuperMatics (Davis Rens, Charlie Moon). From the Oct 9 2026 strategy call with Matt Tanton. Two LinkedIn profiles, all investor meetings taken by Davis. $10M seed at $60M post, Q1 2027 target close. Term set to a 3-month initial term from Matt's 'relatively short engagement'; confirm.",
+  "mode": "fundraising",
+  "output_file": "ThinkFISH_Proposal_SuperMatics.pptx",
+  "date": "October 2026",
+  "client": {
+    "display_name": "SuperMatics",
+    "short_name": "SuperMatics",
+    "contacts": ["Davis", "Charlie"],
+    "prepared_for": "Davis Rens & Charlie Moon"
+  },
+
+  "summary": {
+    "cards": [
+      { "label": "THE ASK",        "text": "A $10M seed at a $60M post-money cap, closed by the end of Q1 2027. It builds on a $1M pre-seed led by a Korean semiconductor and superconductor manufacturer. The goal is a lead or larger allocation to anchor the round, with family offices, micro VCs and angels who understand frontier materials, quantum, fusion and AI infrastructure filling the rest." },
+      { "label": "THE PLAN",       "text": "Two LinkedIn profiles (Davis’s and Charlie’s), run end to end by ThinkFISH in your voice. We target deep-tech micro VCs, family offices and angels with a history in materials, quantum, fusion, semiconductors and data-center infrastructure. Every meeting is pre-qualified, approved by you and booked onto Davis’s calendar." },
+      { "label": "THE INVESTMENT", "text": "$3,000 per month, as a flat retainer. Three-month initial term, with both profiles included. No setup fee, no success fee, no commission and no involvement in the transaction. We are not a broker-dealer." }
+    ],
+    "band": { "label": "WHAT TO EXPECT",
+              "text": "Outreach goes live within two weeks of kickoff. The first qualified investor conversations land in weeks three and four (mid-November), building to a steady 2–4 qualified meetings per week across both profiles from December. You get weekly reporting and a month-three review in January. One honest note: early-stage raises historically take 6–12 months from first outreach to capital in the bank, so a Q1 close is tight. We can have the right investors on Davis’s calendar before year-end. When checks close depends on your process and each investor’s diligence, and we’d rather you hear that from us now." }
+  },
+
+  "gap": {
+    "narrative": "You’ve done the hard part in eight months: a focused thesis on superconducting materials, models no generalist materials platform has built, paying work with fusion and quantum hardware teams, and a signed NVIDIA contract on data-center thermal load. The gap is structural. Your pre-seed came about 90% from one strategic partner, so SuperMatics has never needed a repeatable investor pipeline. A $10M seed needs dozens of right-sized conversations, and today they depend on cold outreach from your only technical founder.",
+    "rows": [
+      "Interest from smaller VCs, family offices and HNW individuals at low-to-mid six figures, and early diligence with a couple of larger firms, but no confidence yet in a Q1 close.",
+      "Without a lead or larger allocation, the round can’t fill around $60M-post terms, and the move from internal models to an externally deployed product waits on capital.",
+      "Davis is doing the building and the investor outreach. In his words: time spent on cold outreach that “majority of the time” leads to nothing, “not the best use of time.”",
+      "Every month spent sourcing pushes the close past Q1 and leaves the round depending on what Davis called “a bit of a stroke of luck.”"
+    ]
+  },
+
+  "icp": {
+    "segments": [
+      { "name": "Deep-Tech & Frontier-Science Micro VCs",       "why": "Funds with a history in advanced materials, quantum and fusion. They read novel model architectures and an NVIDIA contract as signal, and can anchor an allocation." },
+      { "name": "Energy, Chip & Industrial Family Offices", "why": "Family offices built on energy, chips or manufacturing. They understand superconductor supply chains and the royalty model behind manufacturing routes." },
+      { "name": "AI Infrastructure & Data-Center Angels",       "why": "Operators and investors in compute, cooling and data-center buildouts, for whom thermal load is a known, expensive problem." },
+      { "name": "Quantum & Fusion Operator-Angels",             "why": "Exited founders, physicists and executives from quantum hardware and fusion who know the materials bottleneck firsthand and back technical founders." }
+    ],
+    "note": "These segments are our starting point. We’ll plan a fuller outline of investor targets with you during onboarding, including check sizes, geographies (US and Korea), and exclusions such as firms already in diligence."
+  },
+
+  "architecture": {
+    "title": "Two Profiles, One Calendar",
+    "subtitle": "HOW BOTH FOUNDERS’ PROFILES FEED DAVIS’S MEETINGS",
+    "cards": [
+      { "label": "DAVIS  ·  TECHNICAL FOUNDER", "text": "Davis’s profile leads with the science: a quantum-hardware background, purpose-built models for superconducting materials, and the NVIDIA, fusion and quantum work. That message lands with deep-tech funds and technical angels, and Davis takes every first meeting." },
+      { "label": "CHARLIE  ·  CO-FOUNDER",      "text": "Charlie’s profile doubles the outreach volume. It has its own audience and scripts, so no investor gets messaged twice. Your account manager handles every reply and books it to Davis’s calendar, so the time difference with Korea never slows a meeting down." },
+      { "label": "THE REEF  ·  RETARGETING",    "text": "Beyond outreach from your profiles, we retarget the raise to our internal database of 10k+ investors who opted in for deal flow, filtered to deep tech, energy and AI infrastructure. It’s also featured in Startup Deal Desk, our 84k-subscriber investor newsletter." }
+    ],
+    "band": { "label": "RIGHT-SIZED FOR A $60M POST",
+              "text": "Every booking routes through a short pre-qualification form covering accreditation, check size, timeline and sectors, so you see before the call whether an investor fits a $60M-post round. Family offices, micro VCs and angels fill a seed around its lead. Any lead-capable fund or family office we find goes straight to Davis. The profile split above is our starting assumption, and we’ll confirm it with you in onboarding." }
+  },
+
+  "expect": {
+    "cards": [
+      { "label": "OUTREACH VOLUME",        "number": "2,400+", "unit": "LinkedIn touches / month, two profiles",    "text": "We aim to send 600–800 InMails and 600–800 connection invites per profile every month, from Davis’s and Charlie’s accounts, once they’re fully warmed up. Every touch is scored and hand-reviewed before it goes out." },
+      { "label": "QUALIFIED MEETINGS",     "number": "2–4",    "unit": "per week at steady state (month 2 onward)", "text": "Conservatively 1–2 per profile per week once calibrated, and strong audiences run more. It’s not a guarantee, but it’s the range we deliver consistently. Every meeting goes to Davis." },
+      { "label": "TIME TO FIRST MEETINGS", "number": "3–4",    "unit": "weeks from kickoff to first booked calls",  "text": "Weeks one and two are setup: ICP, audiences, scripts and profile warm-up. Live outreach starts in week three, and the first replies and bookings follow within days." }
+    ]
+  },
+
+  "ninety_days": {
+    "columns": [
+      { "label": "WEEKS 1-2  ·  LATE OCT",  "title": "Setup & Calibration", "bullets": ["Interviews: Davis, then Charlie", "Investor ICP, two audiences", "Profiles optimized & warmed", "Scripts approved in your voice"] },
+      { "label": "WEEKS 3-4  ·  MID NOV",   "title": "First Live Outreach", "bullets": ["Live on both LinkedIn profiles", "First replies, first booked meetings", "A/B tests on openers by segment"] },
+      { "label": "MONTH 2  ·  DECEMBER",    "title": "Steady Flow",         "bullets": ["Steady weekly flow to Davis", "Targeting tightened on real replies", "Segment reporting: what converts"] },
+      { "label": "MONTH 3  ·  JANUARY",     "title": "Prove-Out & Scale",   "bullets": ["Review of three months of data", "Pipeline mapped against the Q1 close", "Continue, scale or stop"] }
+    ],
+    "band": { "label": "THE JANUARY CHECKPOINT",
+              "text": "By the January review you’ll have three months of real numbers on audience quality, meeting quality and which segments convert, with the pipeline laid against your Q1 target. That’s the end of the initial term: continue, scale (add a profile, or point the same engine at manufacturing and co-development partners) or stop. The decision gets made on data, not faith." }
+  },
+
+  "pricing": {
+    "options": [ { "price": "$3,000", "unit": "month" } ],
+    "term": "3-month initial term  ·  Both profiles included  ·  No success fee",
+    "bullets": [
+      "Two LinkedIn profiles (Davis + Charlie), fully managed",
+      "Full investor campaign for the $10M seed, end to end",
+      "Outreach, inbox management & follow-ups",
+      "Lead qualification, pre-call briefings & scheduling",
+      "The Reef retargeting & Startup Deal Desk feature",
+      "Profile optimization, pitch & deck support",
+      "CRM, weekly reporting, A/B testing & optimization"
+    ],
+    "buys": { "label": "WHAT THAT BUYS", "bullets": [
+      "Davis’s weeks back: sourcing, outreach, follow-ups and qualification handled, so his time goes to investor meetings and the build",
+      "Two profiles, two audiences and one dedicated account manager, with every meeting routed to one calendar",
+      "Every investor screened on accreditation, check size and timeline before they reach Davis",
+      "No success fee and no commission, so every dollar of the $10M seed stays with SuperMatics",
+      "A January review on three months of real numbers, so the next step is decided on data, not faith"
+    ] }
+  },
+
+  "next_steps": {
+    "cards": [
+      { "label": "1  ·  REVIEW",          "text": "Davis, take this to Charlie on Monday. Matt will walk through anything that comes back on our Wednesday call (11:30am PT / 2:30pm ET). If Charlie wants to hear it directly, Freizle or Ben will join a 20-minute call at a Korea-friendly hour." },
+      { "label": "2  ·  SIGN & KICK OFF", "text": "We send the services agreement the same day you say yes. Onboarding interviews with Davis and Charlie start that week, and we get access to the data room and both LinkedIn profiles." },
+      { "label": "3  ·  FIRST MEETINGS",  "text": "Both profiles go live within two weeks of kickoff. The first qualified investor conversations land on Davis’s calendar in weeks three and four, then build to a steady weekly rhythm through December and into the January review." }
+    ],
+    "band": { "label": "WHAT WE NEED FROM YOU",
+              "text": "Connect Davis’s and Charlie’s LinkedIn accounts to our system (no passwords or login credentials required). Share the data room and any investor lists or past conversations, including the firms already in diligence and everyone who passed. One 60-minute onboarding interview with Davis, and a shorter one with Charlie. A Calendly link for Davis, and a do-not-contact list. That’s it. We handle the rest." }
+  },
+
+  "deliverables": {
+    "number": "2,400+",
+    "unit": "LinkedIn touches / month, two profiles",
+    "text": "600–800 InMails and 600–800 connection invites per profile every month, from Davis’s and Charlie’s accounts, in your voice, once fully warmed up. Every InMail credit in your Sales Navigator plans gets used."
+  }
+}
