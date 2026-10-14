@@ -1,0 +1,111 @@
+{
+  "_comment": "Sparton Capital, fundraising, two LinkedIn profiles (Alex + one partner, name TBC), one retainer. From the Oct 14 2026 strategy call (Matt Tanton / Alex Seleska); Oct 12 call with Ken used for background only. Term and opt-out deliberately left out per Matt.",
+  "mode": "fundraising",
+  "output_file": "ThinkFISH_Proposal_Sparton_Capital.pptx",
+  "date": "October 2026",
+  "client": {
+    "display_name": "Sparton Capital",
+    "short_name": "Sparton Capital",
+    "contacts": ["Alex"],
+    "prepared_for": "Alex Seleska"
+  },
+
+  "summary": {
+    "cards": [
+      { "label": "THE ASK",        "text": "Close the two priority raises first: $15M for the agri-tech portfolio company and $4M for the fuel delivery business that launched this week. Then carry the same engine into the follow-ons ($1.5M, $500K and the next $500K) and the wider pipeline across energy, compute infrastructure, human wellness and the real-economy roll-ups. Family offices and high-net-worth investors who are ready to move." },
+      { "label": "THE PLAN",       "text": "Two LinkedIn profiles, Alex’s and a partner’s, run end to end by ThinkFISH in your voice. We go beyond your network to 2nd- and 3rd-degree investors with a track record in each project’s sector, segmented per raise so every SPV gets its own audience. Every meeting pre-qualified on check size and intent, and approved by you." },
+      { "label": "THE INVESTMENT", "text": "$3,000 per month, flat, for two profiles. One retainer covers every Sparton raise we run, not a single SPV. No setup fee, no success fee, no commission, no involvement in the transaction. More profiles can be added as the pipeline grows." }
+    ],
+    "band": { "label": "WHAT TO EXPECT",
+              "text": "Outreach live within two weeks of kickoff. First qualified investor conversations in weeks three and four, building to a steady 2–4 qualified meetings per week across both profiles from month two. These are new investors from outside your network, on top of the 5–15 conversations you run today. One honest note for your partners: private raises historically take 6–12 months from first outreach to capital in the bank. We can fill the calendar quickly; the close depends on your process and each investor’s diligence, and we’d rather you hear that from us now." }
+  },
+
+  "gap": {
+    "narrative": "Sparton is doing a lot right: 5–15 investor conversations a week, a strong personal network, active SPVs, and checks getting written. The gap is structural. Your thesis spans agri-tech, fuel delivery, cybersecurity, car finance and roll-ups, so every raise needs a different set of investors. Finding the ones with the right sector history who are ready to move is, in your words, a full-time job on its own.",
+    "principle": "Fundraising is a volume game at the right tier. The variable you control is how many qualified, sector-matched investor conversations enter the top of your funnel every week, for every live raise at once.",
+    "rows": [
+      "A good number of meetings and the odd check written, but not enough investors who are ready to write checks then and there.",
+      "Each project needs its own investors, so sourcing starts over for every SPV. The $15M and $4M raises both compete for that same time.",
+      "The partners who run the deals spend their weeks searching LinkedIn for the right investors instead of closing the ones already in the room.",
+      "The fuel delivery raise has no commitments yet, and every week without new right-fit investors slows both priority closes."
+    ]
+  },
+
+  "icp": {
+    "segments": [
+      { "name": "AGRI  ·  Food, Ag & Wellness Capital",           "why": "Family offices and HNW investors with a history in agtech, food systems, supplements and longevity. They read a $15M agri-tech round in their own language." },
+      { "name": "FUEL  ·  Energy & Logistics Operators", "why": "HNW investors and former operators from fuel distribution, energy services, fleet and logistics. They understand a cash-flowing delivery business on sight." },
+      { "name": "BOTH  ·  Texas & Sun Belt Family Offices",       "why": "Single- and multi-family offices that co-invest through SPVs, starting close to home. The Dallas group already reviewing the agri-tech raise is the profile." },
+      { "name": "NEXT  ·  Roll-Up & Acquisition Capital","why": "Independent sponsors and HNW investors who back acquisitions and roll-ups: HVAC, machining, e-commerce facilities, car finance. Built for the raises that follow." }
+    ],
+    "note": "These segments are our starting point. A more comprehensive outline of investor targets, including check-size minimums per SPV, geographies and exclusions, will be planned with you during onboarding."
+  },
+
+  "architecture": {
+    "title": "Many Raises, One Engine",
+    "subtitle": "HOW ONE CAMPAIGN COVERS THE SPARTON PIPELINE",
+    "cards": [
+      { "label": "ALEX  ·  AGRI-TECH ($15M)",     "text": "Alex’s profile carries the agri-tech raise. A 14,500-connection network and the venture side of the Sparton thesis give the message instant credibility with food, ag and wellness capital. Its own audience, its own scripts, its own scorecard." },
+      { "label": "PARTNER  ·  FUEL DELIVERY ($4M)","text": "Your partner’s profile carries the fuel delivery raise to energy, logistics and operator-investors. Separate audience, separate scripts, separate scorecard, so an ag-focused family office never gets a fuel pitch and a logistics investor never gets an agtech one." },
+      { "label": "THE PIPELINE  ·  WHAT’S NEXT",   "text": "As the priority raises fill, the same profiles roll onto the follow-ons ($1.5M, $500K, $500K) and the cybersecurity, car finance and roll-up deals. Every raise is also retargeted to our 10k+ investor database and featured in Startup Deal Desk." }
+    ],
+    "band": { "label": "WHY ONE RETAINER COVERS EVERY RAISE",
+              "text": "The engine is shared: one dedicated account manager, one CRM, one weekly review, one set of reports split by raise. What differs is the audience and the story, and both are built per project during onboarding. The profile-to-raise mapping above is our starting assumption; we’ll confirm it, and which partner’s profile we use, in the first onboarding session." }
+  },
+
+  "expect": {
+    "cards": [
+      { "label": "OUTREACH VOLUME",        "number": "2,400+", "unit": "LinkedIn touches / month, two profiles",    "text": "We aim to send 600–800 InMails and 600–800 connection invites per profile every month once fully warmed up, all to investors outside your existing network. Every touch scored and hand-reviewed first." },
+      { "label": "QUALIFIED MEETINGS",     "number": "2–4",    "unit": "per week at steady state (month 2 onward)", "text": "Conservatively 1–2 per profile per week once calibrated; strong audiences run more. Not a guarantee, but the range we deliver consistently. Add profiles and output multiplies." },
+      { "label": "TIME TO FIRST MEETINGS", "number": "3–4",    "unit": "weeks from kickoff to first booked calls",  "text": "Weeks one and two are setup: ICPs per raise, audiences, scripts, profile warm-up. Live outreach starts in week three, and the first replies and bookings follow within days." }
+    ]
+  },
+
+  "ninety_days": {
+    "columns": [
+      { "label": "WEEKS 1-2  ·  LATE OCT", "title": "Setup & Calibration", "bullets": ["Onboarding interviews per raise", "Agri-tech + fuel ICPs and audiences", "Profiles optimized, accounts warmed", "Scripts approved in your voice"] },
+      { "label": "WEEKS 3-4  ·  NOVEMBER", "title": "First Live Outreach", "bullets": ["Live on both LinkedIn profiles", "First replies, first booked meetings", "A/B tests on openers per raise"] },
+      { "label": "MONTH 2  ·  DECEMBER",   "title": "Steady Flow",         "bullets": ["Steady weekly flow for both raises", "Targeting tightened on real replies", "Segment reporting: what converts"] },
+      { "label": "MONTH 3  ·  JANUARY",    "title": "Prove-Out & Scale",   "bullets": ["Review of three months of data", "Roll onto the follow-on raises", "Scale: add partner profiles"] }
+    ],
+    "band": { "label": "THE MONTH-THREE REVIEW",
+              "text": "By the January review you’ll have three months of real numbers on audience quality, meeting quality and conversions, split by raise. That is where we decide together what comes next: point the engine at the follow-ons and the roll-ups, add more partner profiles, or keep the focus where it is. The decision gets made on data, not on faith." }
+  },
+
+  "pricing": {
+    "options": [ { "price": "$3,000", "unit": "month" } ],
+    "term": "Two LinkedIn profiles  ·  Every Sparton raise included",
+    "bullets": [
+      "Two LinkedIn profiles (Alex + one partner), fully managed",
+      "Full campaign execution for every live raise, end to end",
+      "Outreach, inbox management & follow-ups",
+      "Lead qualification, pre-call briefings & scheduling",
+      "The Reef retargeting & Startup Deal Desk feature",
+      "Profile optimization, pitch & deck support",
+      "CRM, weekly reporting, A/B testing & optimization"
+    ],
+    "buys": { "label": "WHAT THAT BUYS", "bullets": [
+      "Every raise on one retainer: the $15M, the $4M and the follow-ons, each with its own audience and scorecard, one team",
+      "No success fee or commission on any SPV, so the cost stays flat however much of the pipeline closes",
+      "The sourcing work that takes a partner’s week, done for you, so your time goes to the investors already in the room",
+      "One dedicated account manager, one CRM and one weekly report across all of Sparton’s raises",
+      "Add partner profiles later and output multiplies as more of the pipeline goes live"
+    ] }
+  },
+
+  "next_steps": {
+    "cards": [
+      { "label": "1  ·  REVIEW",          "text": "Share this deck with your partners and send us the questions that come back. Then a call with Matt and whichever partners you’d like on it; Freizle can join to field the process and compliance questions directly." },
+      { "label": "2  ·  SIGN & KICK OFF", "text": "We send the services agreement the same day you say yes. Onboarding interviews with Alex and your partner start that week, one per priority raise, and we connect both LinkedIn profiles." },
+      { "label": "3  ·  FIRST MEETINGS",  "text": "Both profiles are live within two weeks of kickoff. The first qualified investor conversations land on your calendars in weeks three and four, then build to a steady weekly rhythm for the agri-tech and fuel delivery raises." }
+    ],
+    "band": { "label": "WHAT WE NEED FROM YOU",
+              "text": "Connect Alex’s and your partner’s LinkedIn accounts to our system (no passwords or login credentials required). Share the materials for each raise and any investor lists or past conversations, including everyone who has already passed. One 60-minute onboarding interview per priority raise. A Calendly link for each of you, and a do-not-contact list if there’s anyone we should avoid. That’s it. We handle the rest." }
+  },
+
+  "deliverables": {
+    "number": "2,400+",
+    "unit": "LinkedIn touches / month, two profiles",
+    "text": "600–800 InMails and 600–800 connection invites per profile every month, from Alex’s and a partner’s accounts, in your voice, once fully warmed up. Every InMail credit in your Sales Navigator plans gets used."
+  }
+}
