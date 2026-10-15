@@ -1,0 +1,112 @@
+{
+  "_comment": "Fundraising proposal for OSpectra AI, Inc. From the Oct 15 2026 strategy call (Matt). Two founder LinkedIn accounts, one retainer. Per Matt: no founder names anywhere in the deck, prepared for the company only, and do not say which founders' accounts are used.",
+  "mode": "fundraising",
+  "output_file": "ThinkFISH_Proposal_OSpectra_AI.pptx",
+  "date": "October 2026",
+  "client": {
+    "display_name": "OSpectra AI, Inc.",
+    "short_name": "OSpectra AI",
+    "contacts": [],
+    "prepared_for": "OSpectra AI, Inc."
+  },
+
+  "summary": {
+    "cards": [
+      { "label": "THE ASK",        "text": "A $2–3M raise for OSpectra AI, closing as early as possible within the current six-month runway. About 40–50% builds the team, 20–30% goes to sales and marketing. Roughly $400K is already committed by the four founders, with $300–400K more in circled interest. The preferred capital: high-net-worth individuals and exited operators who know home care, not VCs." },
+      { "label": "THE PLAN",       "text": "Two founder LinkedIn accounts, run end to end by ThinkFISH in your voice. Targeting accredited angels, exited healthcare operators and home-care strategics writing $100K+ checks, plus our 10k+ investor database and the Startup Deal Desk newsletter. Every meeting pre-qualified and approved by you." },
+      { "label": "THE INVESTMENT", "text": "$3,000 per month, flat. Six-month term with a three-month opt-out. Covers both founder accounts. No setup fee, no success fee, no commission, no transaction involvement." }
+    ],
+    "band": { "label": "WHAT TO EXPECT",
+              "text": "Outreach live within two weeks of kickoff. First qualified investor conversations in weeks three and four, building to 2–6 qualified meetings per week across both accounts from December, with weekly reporting and a data-driven checkpoint at the three-month opt-out in January. One honest note: early-stage raises historically take 6–12 months from first outreach to capital in the bank, and your runway is six. That is why we’d start now and keep the friends-and-family round running in parallel, and we’d rather you hear it from us." }
+  },
+
+  "gap": {
+    "narrative": "You’ve done the hard part: a home-care platform rebuilt from the ground up as an AI co-worker that covers the after-hours work this industry runs on, a 14–15 person team already in place, about $400K of founder money committed, and a founding team that has raised from strategic investors and exited before. What’s missing isn’t credibility, it’s reach. Until now the raise has run on personal connections, and that circle has a ceiling.",
+    "principle": "The right investors for this round already understand home care and AI, and write $100K+ checks without months of education. Finding that pool at volume, ahead of year-end liquidity decisions, is a targeting problem, not a pitch problem.",
+    "rows": [
+      "No outreach yet beyond friends and family. This is the first step outside your own network, and the remaining $2M+ needs a far larger circle.",
+      "Hiring, the team build-out and go-to-market all wait on capital. In AI, as you put it, the speed of change means you need the money to pivot fast.",
+      "Founders who should be running demos with home-care customers and building product end up sourcing, vetting and educating investors one by one.",
+      "Six months of runway. Every month without a full investor pipeline narrows the window to close on your terms rather than under time pressure."
+    ]
+  },
+
+  "icp": {
+    "segments": [
+      { "name": "Exited Healthcare & Home-Care Operators", "why": "Founders and executives who built or sold home care, home health or post-acute businesses. They know the after-hours pain firsthand and can advise, not just invest." },
+      { "name": "Healthcare SaaS & AI Angels",             "why": "Accredited angels with a track record in healthcare software and applied AI, who read an AI co-worker model without needing it explained." },
+      { "name": "Home-Care Strategics",                    "why": "Home care and home health agencies and their owners: future customers who may take an equity stake and help with go-to-market." },
+      { "name": "HNWIs with Recent Liquidity Events",      "why": "Investors with a recent exit or large share sale, looking to deploy before year-end, with a history of $100K+ checks in healthcare or tech." },
+      { "name": "Healthcare Syndicates & Alumni Networks", "why": "Angel groups, syndicates and alumni networks active in healthcare, plus speakers and attendees at home-care and health-tech conferences." }
+    ],
+    "note": "These segments are our starting point. A fuller outline of investor targets, including check sizes, geographies and exclusions, will be planned with you during onboarding."
+  },
+
+  "architecture": {
+    "title": "Two Accounts, One Raise",
+    "subtitle": "HOW THE CAMPAIGN IS STRUCTURED",
+    "cards": [
+      { "label": "TWO FOUNDER ACCOUNTS", "text": "Outreach runs from two founder LinkedIn accounts, each with its own audience, scripts and scorecard, so an exited home-care operator and a health-tech angel each hear the story from the right founder. Which segments each account carries gets confirmed with you in onboarding." },
+      { "label": "THE REEF & DEAL DESK", "text": "Beyond your own accounts, the raise is retargeted to our internal database of 10k+ investors who opted in for deal flow, and featured in Startup Deal Desk, our 84k-subscriber investor newsletter. Same qualification, same approval, same CRM." },
+      { "label": "FRIENDS & FAMILY",     "text": "Your friends-and-family round keeps running in parallel; there is no conflict. Our outreach never touches your 1st-degree network, and anyone you’ve already spoken to goes on the do-not-contact list so the two efforts never overlap." }
+    ],
+    "band": { "label": "WHY ONE RETAINER COVERS BOTH ACCOUNTS",
+              "text": "The engine is shared: one dedicated account manager, one CRM, one weekly review, one set of reports covering both accounts. Two accounts double the top of the funnel for the same retainer, which matters when the goal is to close as much of the round as possible within six months of runway." }
+  },
+
+  "expect": {
+    "cards": [
+      { "label": "OUTREACH VOLUME",        "number": "3,200", "unit": "LinkedIn touches / month, two accounts",    "text": "800 InMails and 800 connection invites per founder account every month, once fully warmed up. Every touch scored and hand-reviewed before it goes out." },
+      { "label": "QUALIFIED MEETINGS",     "number": "2–6",   "unit": "per week at steady state (month 2 onward)", "text": "Conservatively 1–3 per account per week once calibrated. Not a guarantee, but the range we deliver consistently." },
+      { "label": "TIME TO FIRST MEETINGS", "number": "3–4",   "unit": "weeks from kickoff to first booked calls",  "text": "Weeks one and two are setup: ICP, audiences, scripts, account warm-up, and your deck and data room tightened. Live outreach starts in week three, first bookings follow within days." }
+    ]
+  },
+
+  "ninety_days": {
+    "columns": [
+      { "label": "WEEKS 1-2  ·  EARLY NOV",  "title": "Setup & Calibration", "bullets": ["Onboarding interview with founders", "Investor ICP and audiences built", "Accounts optimized and warmed", "Deck feedback, data-room checklist"] },
+      { "label": "WEEKS 3-4  ·  LATE NOV",   "title": "First Live Outreach", "bullets": ["Live on both founder accounts", "First replies, first meetings", "A/B testing segments and openers"] },
+      { "label": "MONTH 2  ·  DECEMBER",     "title": "Steady Flow",         "bullets": ["Year-end liquidity window", "Targeting tightened on replies", "Deal Desk newsletter feature"] },
+      { "label": "MONTH 3  ·  JANUARY",      "title": "Prove-Out & Scale",   "bullets": ["Three months of real data", "Your 3-month opt-out checkpoint", "Scale or refine for the close"] }
+    ],
+    "band": { "label": "THE JANUARY CHECKPOINT",
+              "text": "By the January review you’ll have three months of real numbers on audience quality, meeting quality and investor conversations in diligence. That is your three-month opt-out checkpoint: continue through the close, refine the segments that convert, or stop. The decision gets made on data, not on faith." }
+  },
+
+  "pricing": {
+    "options": [ { "price": "$3,000", "unit": "month" } ],
+    "term": "6-month term  ·  3-month opt-out  ·  Two founder accounts",
+    "bullets": [
+      "Two founder LinkedIn accounts, fully managed",
+      "Full campaign execution for the raise, end to end",
+      "Outreach, inbox management & follow-ups",
+      "Lead qualification, pre-call briefings & scheduling",
+      "The Reef retargeting & Startup Deal Desk feature",
+      "Profile optimization, deck feedback & data-room checklist",
+      "CRM, weekly reporting, A/B testing & optimization"
+    ],
+    "buys": { "label": "WHAT THAT BUYS", "bullets": [
+      "Two founder accounts on one retainer: double the top of the funnel, one team",
+      "Compare: investment bankers decline sub-$10M mandates and charge a success fee on top; we take no percentage of the $2–3M",
+      "One dedicated account manager, one CRM and one weekly report covering both accounts",
+      "Sales Navigator seats from our corporate plan, so there is no extra LinkedIn spend",
+      "The three-month opt-out means the January decision is made on real numbers, not on faith"
+    ] }
+  },
+
+  "next_steps": {
+    "cards": [
+      { "label": "1  ·  REVIEW",          "text": "Take this deck to the founding team and bring the questions to our call on Thursday, October 22 at 10am PT. Matt will walk through the proposal and answer the targeting, process and compliance questions directly." },
+      { "label": "2  ·  SIGN & KICK OFF", "text": "We send the services agreement the same day you say yes. Onboarding starts that week: the founder interview, both LinkedIn accounts connected, and deck and data-room feedback so materials are ready before the first meeting." },
+      { "label": "3  ·  FIRST MEETINGS",  "text": "Both accounts are live within two weeks of kickoff. The first qualified investor conversations land on your calendars in weeks three and four, then build to a steady weekly rhythm through the year-end window and into the January checkpoint." }
+    ],
+    "band": { "label": "WHAT WE NEED FROM YOU",
+              "text": "Connect the two founder LinkedIn accounts to our system (no passwords or login credentials required). Share your pitch deck, data room and any investor lists or past conversations. One 60-minute onboarding interview. A Calendly link for whoever takes first meetings, and a do-not-contact list covering your friends-and-family round. That’s it. We handle the rest." }
+  },
+
+  "deliverables": {
+    "number": "3,200",
+    "unit": "LinkedIn touches / month, two accounts",
+    "text": "800 InMails and 800 connection invites per founder account every month, in your voice, once fully warmed up. Every touch scored and hand-reviewed before it goes out."
+  }
+}
