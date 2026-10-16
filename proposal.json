@@ -1,111 +1,213 @@
 {
-  "_comment": "Fundraising proposal for Jetstream Venture Fund (Michael Shufeldt, Doug Sylvester). From the Oct 16 2026 strategy call with Michael (Matt). Evergreen fund; goal is moving the average check from $5–10K retail to $50K+ allocators. Three partner profiles (Michael, John, Doug) for $3,000/month, four-month term, no opt-out.",
+  "_comment": "Fundraising proposal for Jetstream Venture Fund (Michael Shufeldt, Doug Sylvester). From the Oct 16 2026 strategy call with Michael (Matt). Evergreen fund; goal is more investor meetings, primarily $50K+ checks, with sub-$50K investors segmented into their own track. Three partner profiles (Michael, John, Doug) for $3,000/month, Chris as optional 4th for +$500. Four-month term, no opt-out.",
   "mode": "fundraising",
   "output_file": "ThinkFISH_Proposal_Jetstream_Venture_Fund.pptx",
   "date": "October 2026",
   "client": {
     "display_name": "Jetstream Venture Fund",
     "short_name": "Jetstream Venture Fund",
-    "contacts": ["Michael", "Doug"],
+    "contacts": [
+      "Michael",
+      "Doug"
+    ],
     "prepared_for": "Michael Shufeldt & Doug Sylvester"
   },
-
   "summary": {
     "cards": [
-      { "label": "THE GOAL",       "text": "Raise the average check into Jetstream Venture Fund. Most investors today come in at $5–10K; the goal is a repeatable weekly flow of $50K–$500K+ allocators: family offices, high-net-worth individuals and seasoned angels, the tier between retail and institutions. Evergreen with no close date, so every new allocator compounds toward a $30M fund." },
-      { "label": "THE PLAN",       "text": "Three partner profiles (Michael’s, John’s and Doug’s), run end to end by ThinkFISH in your voices, each aimed at the network it already speaks to: military and aviation, physicians, and legal professionals, alongside family offices and angels. Every meeting pre-qualified to your $50K minimum and approved by you." },
-      { "label": "THE INVESTMENT", "text": "$3,000 per month, flat, for all three profiles. Four-month committed term. No setup fee, no success fee, no commission, no transaction involvement." }
+      {
+        "label": "THE GOAL",
+        "text": "More investor meetings for Jetstream Venture Fund, every week, primarily with $50K+ checkwriters: family offices, high-net-worth individuals and seasoned angels, the tier between retail and institutions. Investors below $50K are segmented into their own track, so smaller interest still converts without taking the partners’ one-on-one time."
+      },
+      {
+        "label": "THE PLAN",
+        "text": "Three partner profiles (Michael’s, John’s and Doug’s), run end to end by ThinkFISH in your voices, each aimed at the network it already speaks to: military and aviation, physicians, and legal professionals, alongside family offices and angels. Every meeting pre-qualified, sorted at the $50K line, and approved by you."
+      },
+      {
+        "label": "THE INVESTMENT",
+        "text": "$3,000 per month, flat, for three profiles. Add Chris as a fourth profile for $3,500 per month. Four-month committed term. No setup fee, no success fee, no commission, no transaction involvement."
+      }
     ],
-    "band": { "label": "WHAT TO EXPECT",
-              "text": "Outreach live within two weeks of kickoff. First qualified investor conversations in weeks three and four, building to a steady 3–6 qualified meetings per week across the three profiles from month two, with weekly reporting by profile and segment. One honest note: larger allocators move more slowly than the $5–10K investors you close today. Diligence on a fund takes time, and many will start with a test allocation and add as they watch the share price, exactly as your current investors have. We’d rather you hear that from us now." }
+    "band": {
+      "label": "WHAT TO EXPECT",
+      "text": "Outreach live within two weeks of kickoff. First qualified investor conversations in weeks three and four, building to a steady 3–6 qualified meetings per week across the three profiles from month two, with weekly reporting by profile and segment. One honest note: larger allocators move more slowly than the $5–10K investors you close today. Diligence on a fund takes time, and many will start with a test allocation and add as they watch the share price, exactly as your current investors have. We’d rather you hear that from us now."
+    }
   },
-
   "gap": {
-    "narrative": "The fund is proven where it counts: when someone interested gets a conversation with you, they almost always invest, and existing investors keep adding as the share price climbs. What’s missing isn’t the close, it’s the at-bats with larger checkwriters. In-person events and referrals work but don’t repeat, and family offices are harangued by fundraisers all day, so cold calls, email and automated LinkedIn tools never reach them.",
-    "principle": "At $5,000 a check, it takes thousands of investors to build a $30M fund. The variable you control is how many $50K+ conversations reach your calendars every week, from a partner the investor already has reason to trust.",
+    "narrative": "The fund is proven where it counts: when someone interested gets a conversation with you, they almost always invest, and existing investors keep adding as the share price climbs. The variable is the number of conversations, above all with larger checkwriters. In-person events and referrals work but don’t repeat, and family offices are harangued by fundraisers all day, so cold calls, email and automated LinkedIn tools never reach them.",
+    "principle": "Your close rate is already there. The variable you control is how many investor conversations reach your calendars every week, sorted at $50K so the larger checks get the partners’ time and smaller interest gets its own track.",
     "rows": [
-      "Plenty of small checks, too few large ones. Phone, email and LinkedIn all came back “tough”; the automated tools you tried produced nothing.",
-      "It takes a lot of $5,000 investors to be a $30M fund. Every allocator at the right tier is worth ten to a hundred retail checks.",
+      "Strong close rate, not enough conversations. Phone, email and LinkedIn all came back “tough”; the automated tools you tried produced nothing.",
+      "Most of the flow today is $5–10K. A steady stream of $50K+ meetings lifts the average check while smaller investors keep coming in on their own track.",
       "Partners spending their time on events and referrals that close well but can’t be scheduled, instead of on deals and portfolio companies.",
       "Without a repeatable channel, you never learn whether bigger checkwriters want this fund, or whether your sample to date was simply biased."
     ]
   },
-
   "icp": {
     "segments": [
-      { "name": "Single-Family Offices & Funds of Funds",     "why": "The tier between individuals and institutions you named. A $50K allocation is routine for them, and an evergreen fund with no carry suits long-horizon capital." },
-      { "name": "JOHN  ·  Physician & Healthcare Investors",  "why": "Doctors and healthcare executives with health tech, medtech or biotech exposure. A physician-founder’s profile is the one they’ll answer." },
-      { "name": "MICHAEL  ·  Military & Aviation Investors", "why": "Airline and military pilots, veterans and defense professionals. A shared background is the strongest foot in the door, and the fund holds defense deals." },
-      { "name": "DOUG  ·  Attorneys & Professional HNW",      "why": "Law firm partners and high-earning professionals in their 30s–50s looking to diversify beyond public markets into venture." },
-      { "name": "Seasoned Angels & Syndicate Leads",          "why": "Experienced investors who value per-deal exits, the tax treatment, access to your deal flow and the option to syndicate alongside the fund." }
+      {
+        "name": "Single-Family Offices & Funds of Funds",
+        "why": "The tier between individuals and institutions you named. A $50K allocation is routine for them, and an evergreen fund with no carry suits long-horizon capital."
+      },
+      {
+        "name": "JOHN  ·  Physician & Healthcare Investors",
+        "why": "Doctors and healthcare executives with health tech, medtech or biotech exposure. A physician-founder’s profile is the one they’ll answer."
+      },
+      {
+        "name": "MICHAEL  ·  Military & Aviation Investors",
+        "why": "Airline and military pilots, veterans and defense professionals. A shared background is the strongest foot in the door, and the fund holds defense deals."
+      },
+      {
+        "name": "DOUG  ·  Attorneys & Professional HNW",
+        "why": "Law firm partners and high-earning professionals in their 30s–50s looking to diversify beyond public markets into venture."
+      },
+      {
+        "name": "Seasoned Angels & Syndicate Leads",
+        "why": "Experienced investors who value per-deal exits, the tax treatment, access to your deal flow and the option to syndicate alongside the fund."
+      }
     ],
-    "note": "These segments are our starting point. A fuller outline of investor targets, including check sizes, geographies, exclusions and which partner leads each, will be planned with you during onboarding."
+    "note": "Primary target: $50K+ checks. Investors under $50K are routed to a separate track (e.g. group webinars). Full targets and exclusions are set with you in onboarding."
   },
-
   "architecture": {
     "title": "Three Partners, Three Networks",
     "subtitle": "HOW ONE CAMPAIGN USES EACH PARTNER’S CREDIBILITY",
     "cards": [
-      { "label": "JOHN  ·  PHYSICIANS",      "text": "John’s profile carries the fund to doctors and healthcare investors. A physician-founder with a strong LinkedIn presence and decades in healthcare speaks their language, and the fund’s health tech, medtech and biotech holdings need no explaining." },
-      { "label": "MICHAEL  ·  MILITARY",     "text": "Michael’s profile carries the fund to airline and military pilots, veterans and defense professionals, plus the family offices and angels in the core ICP. Shared service is one of the strongest openers we see, and the network is largely untapped by the fund so far." },
-      { "label": "DOUG  ·  LEGAL & HNW",     "text": "Doug’s profile carries the fund to attorneys and high-earning professionals diversifying beyond public markets. Each profile has its own audience, scripts and scorecard, so a physician never receives the pitch written for a pilot." }
+      {
+        "label": "JOHN  ·  PHYSICIANS",
+        "text": "John’s profile carries the fund to doctors and healthcare investors. A physician-founder with a strong LinkedIn presence and decades in healthcare speaks their language, and the fund’s health tech, medtech and biotech holdings need no explaining."
+      },
+      {
+        "label": "MICHAEL  ·  MILITARY",
+        "text": "Michael’s profile carries the fund to airline and military pilots, veterans and defense professionals, plus the family offices and angels in the core ICP. Shared service is one of the strongest openers we see, and the network is largely untapped by the fund so far."
+      },
+      {
+        "label": "DOUG  ·  LEGAL & HNW",
+        "text": "Doug’s profile carries the fund to attorneys and high-earning professionals diversifying beyond public markets. Each profile has its own audience, scripts and scorecard, so a physician never receives the pitch written for a pilot."
+      }
     ],
-    "band": { "label": "WHY ONE RETAINER COVERS ALL THREE",
-              "text": "The engine is shared: one dedicated account manager, one CRM, one weekly review, one report split by partner and segment. On top of outreach, the fund is retargeted to our 10k+ opt-in investor network and featured twice in Startup Deal Desk, our 84k-subscriber investor newsletter. The partner-to-segment mapping is our starting assumption; Chris’s profile can carry a science and research segment later if the data says it should." }
+    "band": {
+      "label": "WHY ONE RETAINER COVERS ALL THREE",
+      "text": "The engine is shared: one dedicated account manager, one CRM, one weekly review, one report split by partner, segment and check size. On top of outreach, the fund is retargeted to our 10k+ opt-in investor network and featured twice in Startup Deal Desk, our 84k-subscriber investor newsletter. Chris’s profile can be added as a fourth for science and research investors at +$500 per month."
+    }
   },
-
   "expect": {
-    "band": { "label": "WHAT “QUALIFIED” MEANS, AND THE HONEST TIMELINE",
-              "text": "A qualified meeting is a family office, high-net-worth individual or angel with a verified investing history, who passed scoring and human review, confirmed on booking that they meet your $50K minimum, and whose briefing you approved. Larger allocators take longer to decide than retail investors, and many start with a test allocation before adding more. We’ll fill your calendars quickly; the pace of capital depends on your process and their diligence." },
+    "band": {
+      "label": "WHAT “QUALIFIED” MEANS, AND THE HONEST TIMELINE",
+      "text": "A qualified meeting is a family office, high-net-worth individual or angel with a verified investing history who passed scoring and human review, stated their check size on booking, and whose briefing you approved. $50K+ goes to the partners first; smaller investors are routed to their own track. Larger allocators take longer to decide and often start with a test allocation. We’ll fill your calendars quickly; the pace of capital is up to your process and their diligence."
+    },
     "cards": [
-      { "label": "OUTREACH VOLUME",        "number": "3,600+", "unit": "LinkedIn touches / month, three profiles",  "text": "We aim to send 600–800 InMails and 600–800 connection invites per profile every month from Michael’s, John’s and Doug’s accounts once fully warmed up. Every touch scored and hand-reviewed first." },
-      { "label": "QUALIFIED MEETINGS",     "number": "3–6",    "unit": "per week at steady state (month 2 onward)", "text": "Conservatively 1–2 per profile per week once calibrated, every one at or above your $50K minimum. Not a guarantee, but the range we deliver consistently." },
-      { "label": "TIME TO FIRST MEETINGS", "number": "3–4",    "unit": "weeks from kickoff to first booked calls",  "text": "Weeks one and two are setup: ICP, audiences, scripts and warming three profiles. Live outreach starts in week three, and the first replies and bookings follow within days." }
+      {
+        "label": "OUTREACH VOLUME",
+        "number": "3,600+",
+        "unit": "LinkedIn touches / month, three profiles",
+        "text": "We aim to send 600–800 InMails and 600–800 connection invites per profile every month from Michael’s, John’s and Doug’s accounts once fully warmed up. Every touch scored and hand-reviewed first."
+      },
+      {
+        "label": "QUALIFIED MEETINGS",
+        "number": "3–6",
+        "unit": "per week at steady state (month 2 onward)",
+        "text": "Conservatively 1–2 per profile per week once calibrated, primarily $50K+ checkwriters, with smaller investors on their own track. Not a guarantee, but the range we deliver consistently."
+      },
+      {
+        "label": "TIME TO FIRST MEETINGS",
+        "number": "3–4",
+        "unit": "weeks from kickoff to first booked calls",
+        "text": "Weeks one and two are setup: ICP, audiences, scripts and warming three profiles. Live outreach starts in week three, and the first replies and bookings follow within days."
+      }
     ]
   },
-
   "ninety_days": {
     "columns": [
-      { "label": "WEEKS 1-2  ·  EARLY NOV", "title": "Setup & Calibration", "bullets": ["Interviews: Michael, John, Doug", "Three audiences, one per profile", "Profiles branded to Jetstream", "Scripts approved in your voices"] },
-      { "label": "WEEKS 3-4  ·  MID NOV",   "title": "First Live Outreach", "bullets": ["Live on all three profiles", "First replies, first booked meetings", "Startup Deal Desk feature #1"] },
-      { "label": "MONTH 2  ·  DECEMBER",    "title": "Steady Flow",         "bullets": ["Steady weekly flow, $50K+ only", "Targeting tightened on real replies", "Report: which segment writes checks"] },
-      { "label": "MONTH 3  ·  JANUARY",     "title": "Prove-Out & Scale",   "bullets": ["Three months of data by segment", "Volume shifted to what converts", "Plan: add Chris, or new segments"] }
+      {
+        "label": "WEEKS 1-2  ·  EARLY NOV",
+        "title": "Setup & Calibration",
+        "bullets": [
+          "Interviews: Michael, John, Doug",
+          "Three audiences, one per profile",
+          "Profiles branded to Jetstream",
+          "Scripts approved in your voices"
+        ]
+      },
+      {
+        "label": "WEEKS 3-4  ·  MID NOV",
+        "title": "First Live Outreach",
+        "bullets": [
+          "Live on all three profiles",
+          "First replies, first booked meetings",
+          "Startup Deal Desk feature #1"
+        ]
+      },
+      {
+        "label": "MONTH 2  ·  DECEMBER",
+        "title": "Steady Flow",
+        "bullets": [
+          "Steady weekly flow, $50K+ first",
+          "Targeting tightened on real replies",
+          "Report: which segment writes checks"
+        ]
+      },
+      {
+        "label": "MONTH 3  ·  JANUARY",
+        "title": "Prove-Out & Scale",
+        "bullets": [
+          "Three months of data by segment",
+          "Volume shifted to what converts",
+          "Plan: add Chris, or new segments"
+        ]
+      }
     ],
-    "band": { "label": "THE JANUARY REVIEW",
-              "text": "By January you’ll have three months of real numbers by partner and segment: who replies, who books, and who allocates. That answers the question you raised on the call, whether bigger checkwriters have an appetite for the fund. Month four puts the budget behind the winning segments, and the decision to continue or scale (add Chris’s profile for science investors) gets made on data." }
+    "band": {
+      "label": "THE JANUARY REVIEW",
+      "text": "By January you’ll have three months of real numbers by partner, segment and check size: who replies, who books, and who allocates. That answers the question you raised on the call, whether bigger checkwriters have an appetite for the fund. Month four puts volume behind the winning segments, and the decision to scale (add Chris’s profile for science investors) gets made on data."
+    }
   },
-
   "pricing": {
-    "options": [ { "price": "$3,000", "unit": "month" } ],
-    "term": "4-month term  ·  Three partner profiles included",
+    "options": [
+      {
+        "price": "$3,000",
+        "unit": "month, 3 profiles"
+      }
+    ],
+    "term": "4-month term  ·  Add Chris as a 4th profile: $3,500/month",
     "bullets": [
       "Three LinkedIn profiles (Michael, John, Doug), fully managed",
       "Full campaign execution, end to end",
       "Outreach, inbox management & follow-ups",
-      "Qualification to your $50K minimum & pre-call briefings",
+      "Qualification by check size & pre-call briefings",
       "The Reef retargeting & two Startup Deal Desk features",
       "Profile optimization & branding to the fund",
       "CRM, weekly reporting, A/B testing & optimization"
     ],
-    "buys": { "label": "WHAT THAT BUYS", "bullets": [
-      "Three partner profiles for the price of two: John’s profile was added so physicians hear from a physician",
-      "Three distinct networks (military, medicine, law) worked at once, with results reported by segment",
-      "One dedicated account manager, one CRM and one weekly report across all three partners",
-      "A clear answer by month three on which investor tier and segment actually allocates to the fund",
-      "Interest below your $50K minimum isn’t wasted: it’s routed to a separate group track you can pitch at once"
-    ] }
+    "buys": {
+      "label": "WHAT THAT BUYS",
+      "bullets": [
+        "Three partner profiles for the price of two: John’s profile was added so physicians hear from a physician",
+        "Three distinct networks (military, medicine, law) worked at once, with results reported by segment",
+        "A fourth profile for +$500: Chris reaches science and research investors with the same team and CRM",
+        "A clear answer by month three on which investor tier and segment actually allocates to the fund",
+        "Investors under $50K aren’t wasted: they’re segmented into a separate track you can pitch as a group"
+      ]
+    }
   },
-
   "next_steps": {
     "cards": [
-      { "label": "1  ·  REVIEW",          "text": "Michael, share this with Doug ahead of next week’s call. We’ll run it as a Q&A: bring every question that comes out of Doug’s review of other fundraising tools, and we’ll answer them directly." },
-      { "label": "2  ·  SIGN & KICK OFF", "text": "We send the services agreement the same day you say yes. Onboarding interviews with Michael, John and Doug start that week, and we connect the three LinkedIn profiles to our system." },
-      { "label": "3  ·  FIRST MEETINGS",  "text": "All three profiles are live within two weeks of kickoff. The first qualified investor conversations land on your calendars in weeks three and four, then build to a steady weekly rhythm through December and into the January review." }
+      {
+        "label": "1  ·  REVIEW",
+        "text": "Michael, share this with Doug ahead of next week’s call. We’ll run it as a Q&A: bring every question that comes out of Doug’s review of other fundraising tools, and we’ll answer them directly."
+      },
+      {
+        "label": "2  ·  SIGN & KICK OFF",
+        "text": "We send the services agreement the same day you say yes. Onboarding interviews with Michael, John and Doug start that week, and we connect the three LinkedIn profiles to our system."
+      },
+      {
+        "label": "3  ·  FIRST MEETINGS",
+        "text": "All three profiles are live within two weeks of kickoff. The first qualified investor conversations land on your calendars in weeks three and four, then build to a steady weekly rhythm through December and into the January review."
+      }
     ],
-    "band": { "label": "WHAT WE NEED FROM YOU",
-              "text": "Connect Michael’s, John’s and Doug’s LinkedIn accounts to our system (no passwords or login credentials required). Share the fund’s current offering materials, any investor lists and past conversations, and your existing investors so we exclude them. A 60-minute onboarding interview with each partner. A Calendly link for each of you, and a do-not-contact list. That’s it. We handle the rest." }
+    "band": {
+      "label": "WHAT WE NEED FROM YOU",
+      "text": "Connect Michael’s, John’s and Doug’s LinkedIn accounts to our system (no passwords or login credentials required). Share the fund’s current offering materials, any investor lists and past conversations, and your existing investors so we exclude them. A 60-minute onboarding interview with each partner. A Calendly link for each of you, and a do-not-contact list. That’s it. We handle the rest."
+    }
   },
-
   "deliverables": {
     "number": "3,600+",
     "unit": "LinkedIn touches / month, three profiles",
