@@ -1,105 +1,114 @@
 {
-  "_comment": "Fundraising proposal for Moonshot Foundry (Jeff Brown). Built from three discovery calls: Aug 26 strategy call, Sep 21 pricing/process call with Freizle. One LinkedIn profile (Jeff's), scaling to more accounts later. Includes the Foundry-pipeline partnership context Jeff asked to have woven in.",
+  "_comment": "Fundraising proposal for Jetstream Venture Fund (Michael Shufeldt, Doug Sylvester). From the Oct 16 2026 strategy call with Michael (Matt). Evergreen fund; goal is moving the average check from $5–10K retail to $50K+ allocators. Three partner profiles (Michael, John, Doug) for $3,000/month, four-month term, no opt-out.",
   "mode": "fundraising",
-  "output_file": "ThinkFISH_Proposal_Moonshot_Foundry.pptx",
-  "date": "September 2026",
+  "output_file": "ThinkFISH_Proposal_Jetstream_Venture_Fund.pptx",
+  "date": "October 2026",
   "client": {
-    "display_name": "Moonshot Foundry",
-    "short_name": "Moonshot Foundry",
-    "contacts": ["Jeff"],
-    "prepared_for": "Jeff Brown"
+    "display_name": "Jetstream Venture Fund",
+    "short_name": "Jetstream Venture Fund",
+    "contacts": ["Michael", "Doug"],
+    "prepared_for": "Michael Shufeldt & Doug Sylvester"
   },
 
   "summary": {
     "cards": [
-      { "label": "THE ASK",        "text": "$3–5M growth raise for Moonshot Foundry, floor $3M, ideally committed by year-end. Funds go-to-market scaling and infrastructure, about 25% into tech platform expansion, and about 20% into the Foundry operations behind 10–12 new InsurTech launches a year." },
-      { "label": "THE PLAN",       "text": "Your LinkedIn profile, run end to end by ThinkFISH in your voice. Targeting investors who already think in InsurTech terms, family offices, angels and the wave of new InsurTech-focused funds, instead of generalist VCs who need convincing from zero. Every meeting pre-qualified and approved by you." },
-      { "label": "THE INVESTMENT", "text": "$2,500 per month for one account, or $3,000 for two, flat. Six-month term with a three-month opt-out. No setup fee, no success fee, no commission, no transaction involvement." }
+      { "label": "THE GOAL",       "text": "Raise the average check into Jetstream Venture Fund. Most investors today come in at $5–10K; the goal is a repeatable weekly flow of $50K–$500K+ allocators: family offices, high-net-worth individuals and seasoned angels, the tier between retail and institutions. Evergreen with no close date, so every new allocator compounds toward a $30M fund." },
+      { "label": "THE PLAN",       "text": "Three partner profiles (Michael’s, John’s and Doug’s), run end to end by ThinkFISH in your voices, each aimed at the network it already speaks to: military and aviation, physicians, and legal professionals, alongside family offices and angels. Every meeting pre-qualified to your $50K minimum and approved by you." },
+      { "label": "THE INVESTMENT", "text": "$3,000 per month, flat, for all three profiles. Four-month committed term. No setup fee, no success fee, no commission, no transaction involvement." }
     ],
     "band": { "label": "WHAT TO EXPECT",
-              "text": "Outreach live within two weeks of kickoff. First qualified investor conversations in weeks three and four, building to a steady 1–3 qualified meetings per week from month two, with weekly reporting and a data-driven checkpoint at the three-month opt-out. One honest note: early-growth raises historically take 6–12 months from first outreach to capital in the bank, in line with what you've already budgeted for. We can have the right investors on your calendar quickly; whether commitments close by year-end depends on your process and each investor's diligence, and we'd rather you hear that from us now." }
+              "text": "Outreach live within two weeks of kickoff. First qualified investor conversations in weeks three and four, building to a steady 3–6 qualified meetings per week across the three profiles from month two, with weekly reporting by profile and segment. One honest note: larger allocators move more slowly than the $5–10K investors you close today. Diligence on a fund takes time, and many will start with a test allocation and add as they watch the share price, exactly as your current investors have. We’d rather you hear that from us now." }
   },
 
   "gap": {
-    "narrative": "You've built something real: three rolled-up InsurTech businesses running about $2M this year, a Foundry model already producing two live joint ventures, and roughly $1.1M raised through your own network. What's stalling isn't the story, it's the audience. VCs keep passing because the aggregation-plus-incubation model doesn't fit a pure SaaS or pure-AI thesis, and your own network, tapped for everything it has, is now returning 5–10% response rates on cold outreach.",
-    "principle": "Your raise isn't short on interest, it's short on investors who already speak InsurTech and don't need weeks of education before a check gets written. Finding that specific pool at volume is a targeting problem, not a pitch problem.",
+    "narrative": "The fund is proven where it counts: when someone interested gets a conversation with you, they almost always invest, and existing investors keep adding as the share price climbs. What’s missing isn’t the close, it’s the at-bats with larger checkwriters. In-person events and referrals work but don’t repeat, and family offices are harangued by fundraisers all day, so cold calls, email and automated LinkedIn tools never reach them.",
+    "principle": "At $5,000 a check, it takes thousands of investors to build a $30M fund. The variable you control is how many $50K+ conversations reach your calendars every week, from a partner the investor already has reason to trust.",
     "rows": [
-      "Warm network capped near $1.1M committed; cold outreach off your own AI-built list is landing 5–10% response, well below the volume a $3–5M raise needs.",
-      "Go-to-market scaling, the 25% tech platform build-out and the 20% Foundry allocation behind 10–12 planned launches a year, all wait on capital that hasn't closed.",
-      "You're running three companies and a launch pipeline while also sourcing investors and educating generalists on a niche most outsiders don't understand.",
-      "Every month spent explaining the model to the wrong investor pushes the close further past year-end and delays the next round of Foundry launches behind it."
+      "Plenty of small checks, too few large ones. Phone, email and LinkedIn all came back “tough”; the automated tools you tried produced nothing.",
+      "It takes a lot of $5,000 investors to be a $30M fund. Every allocator at the right tier is worth ten to a hundred retail checks.",
+      "Partners spending their time on events and referrals that close well but can’t be scheduled, instead of on deals and portfolio companies.",
+      "Without a repeatable channel, you never learn whether bigger checkwriters want this fund, or whether your sample to date was simply biased."
     ]
   },
 
   "icp": {
     "segments": [
-      { "name": "InsurTech-Native Angels & Family Offices", "why": "A documented InsurTech thesis and similar checks written in the last 12 months, the investors who need no education on the market." },
-      { "name": "New InsurTech-Focused Funds",              "why": "First-time managers launching funds built specifically around InsurTech, 100+ opened in the last 18 months, actively deploying." },
-      { "name": "Complementary-Vertical Operators",         "why": "Angels and family offices experienced in SaaS, fintech or payments who've shown willingness to stretch into adjacent verticals." },
-      { "name": "Roll-Up & Portfolio-Model Investors",      "why": "Investors comfortable backing an aggregation-plus-incubation structure rather than a single-product SaaS story." }
+      { "name": "Single-Family Offices & Funds of Funds",     "why": "The tier between individuals and institutions you named. A $50K allocation is routine for them, and an evergreen fund with no carry suits long-horizon capital." },
+      { "name": "JOHN  ·  Physician & Healthcare Investors",  "why": "Doctors and healthcare executives with health tech, medtech or biotech exposure. A physician-founder’s profile is the one they’ll answer." },
+      { "name": "MICHAEL  ·  Military & Aviation Investors", "why": "Airline and military pilots, veterans and defense professionals. A shared background is the strongest foot in the door, and the fund holds defense deals." },
+      { "name": "DOUG  ·  Attorneys & Professional HNW",      "why": "Law firm partners and high-earning professionals in their 30s–50s looking to diversify beyond public markets into venture." },
+      { "name": "Seasoned Angels & Syndicate Leads",          "why": "Experienced investors who value per-deal exits, the tax treatment, access to your deal flow and the option to syndicate alongside the fund." }
     ],
-    "note": "This is our starting point. The full target outline, including check sizes and exclusions, gets planned with you during onboarding."
+    "note": "These segments are our starting point. A fuller outline of investor targets, including check sizes, geographies, exclusions and which partner leads each, will be planned with you during onboarding."
   },
 
   "architecture": {
-    "title": "This Raise, and the Partnership Beyond",
-    "subtitle": "HOW ONE ENGAGEMENT SUPPORTS THE FOUNDRY MODEL",
+    "title": "Three Partners, Three Networks",
+    "subtitle": "HOW ONE CAMPAIGN USES EACH PARTNER’S CREDIBILITY",
     "cards": [
-      { "label": "THE MOONSHOT RAISE",  "text": "This engagement runs the $3–5M growth raise for Moonshot Foundry itself, the capital behind go-to-market scaling, the tech platform build-out and the Foundry operations that power 10–12 new InsurTech launches a year." },
-      { "label": "THE FOUNDRY PIPELINE", "text": "Each MGA, JV or InsurTech launch that follows carries its own future raise and its own future investor conversations, the same problem you're solving today, repeated roughly a dozen times a year." },
-      { "label": "A STANDING PARTNERSHIP", "text": "Once the model is proven on this raise, the same account team and targeting are ready for each subsequent venture's capital raise, without rebuilding trust or process from zero every time." }
+      { "label": "JOHN  ·  PHYSICIANS",      "text": "John’s profile carries the fund to doctors and healthcare investors. A physician-founder with a strong LinkedIn presence and decades in healthcare speaks their language, and the fund’s health tech, medtech and biotech holdings need no explaining." },
+      { "label": "MICHAEL  ·  MILITARY",     "text": "Michael’s profile carries the fund to airline and military pilots, veterans and defense professionals, plus the family offices and angels in the core ICP. Shared service is one of the strongest openers we see, and the network is largely untapped by the fund so far." },
+      { "label": "DOUG  ·  LEGAL & HNW",     "text": "Doug’s profile carries the fund to attorneys and high-earning professionals diversifying beyond public markets. Each profile has its own audience, scripts and scorecard, so a physician never receives the pitch written for a pilot." }
     ],
-    "band": { "label": "WHY THIS MATTERS NOW",
-              "text": "You asked us to weave in how a longer-term relationship across future launches could work. Proving the model on Moonshot's own raise is the fastest way there: once we know how to find InsurTech-literate capital for you, the same engine can point at each new venture, cyber MGAs, AI-agent insurance, whatever launches next, without starting from zero." }
+    "band": { "label": "WHY ONE RETAINER COVERS ALL THREE",
+              "text": "The engine is shared: one dedicated account manager, one CRM, one weekly review, one report split by partner and segment. On top of outreach, the fund is retargeted to our 10k+ opt-in investor network and featured twice in Startup Deal Desk, our 84k-subscriber investor newsletter. The partner-to-segment mapping is our starting assumption; Chris’s profile can carry a science and research segment later if the data says it should." }
   },
 
   "expect": {
+    "band": { "label": "WHAT “QUALIFIED” MEANS, AND THE HONEST TIMELINE",
+              "text": "A qualified meeting is a family office, high-net-worth individual or angel with a verified investing history, who passed scoring and human review, confirmed on booking that they meet your $50K minimum, and whose briefing you approved. Larger allocators take longer to decide than retail investors, and many start with a test allocation before adding more. We’ll fill your calendars quickly; the pace of capital depends on your process and their diligence." },
     "cards": [
-      { "label": "OUTREACH VOLUME",        "number": "1,600", "unit": "LinkedIn touches / month, one account",   "text": "800 InMails and 800 connection invites every month from your profile, once fully warmed up. Every touch scored and hand-reviewed before it goes out." },
-      { "label": "QUALIFIED MEETINGS",     "number": "1–3",    "unit": "per week at steady state (month 2 onward)", "text": "Conservatively 1–3 per week from one account once calibrated. Add a second account and the range moves with it." },
-      { "label": "TIME TO FIRST MEETINGS", "number": "3–4",    "unit": "weeks from kickoff to first booked calls",  "text": "Weeks one and two are setup: ICP, audiences, scripts, profile warm-up. Live outreach starts in week three, first replies and bookings follow within days." }
+      { "label": "OUTREACH VOLUME",        "number": "3,600+", "unit": "LinkedIn touches / month, three profiles",  "text": "We aim to send 600–800 InMails and 600–800 connection invites per profile every month from Michael’s, John’s and Doug’s accounts once fully warmed up. Every touch scored and hand-reviewed first." },
+      { "label": "QUALIFIED MEETINGS",     "number": "3–6",    "unit": "per week at steady state (month 2 onward)", "text": "Conservatively 1–2 per profile per week once calibrated, every one at or above your $50K minimum. Not a guarantee, but the range we deliver consistently." },
+      { "label": "TIME TO FIRST MEETINGS", "number": "3–4",    "unit": "weeks from kickoff to first booked calls",  "text": "Weeks one and two are setup: ICP, audiences, scripts and warming three profiles. Live outreach starts in week three, and the first replies and bookings follow within days." }
     ]
   },
 
   "ninety_days": {
     "columns": [
-      { "label": "WEEKS 1-2  ·  OCTOBER", "title": "Setup & Calibration", "bullets": ["Onboarding interview with Jeff", "InsurTech investor ICP built", "Profile optimized, account warmed", "Scripts locked in your voice"] },
-      { "label": "WEEKS 3-4  ·  LATE OCT", "title": "First Live Outreach", "bullets": ["Live on LinkedIn", "First replies, first meetings", "A/B testing InsurTech segments"] },
-      { "label": "MONTH 2  ·  NOVEMBER",   "title": "Steady Flow",         "bullets": ["Targeting tightened on replies", "Weekly volume predictable", "Segment reporting: what converts"] },
-      { "label": "MONTH 3  ·  DECEMBER",  "title": "Prove-Out & Scale",   "bullets": ["Three months of real data", "3-month opt-out checkpoint", "Scale: add accounts, or next raise"] }
+      { "label": "WEEKS 1-2  ·  EARLY NOV", "title": "Setup & Calibration", "bullets": ["Interviews: Michael, John, Doug", "Three audiences, one per profile", "Profiles branded to Jetstream", "Scripts approved in your voices"] },
+      { "label": "WEEKS 3-4  ·  MID NOV",   "title": "First Live Outreach", "bullets": ["Live on all three profiles", "First replies, first booked meetings", "Startup Deal Desk feature #1"] },
+      { "label": "MONTH 2  ·  DECEMBER",    "title": "Steady Flow",         "bullets": ["Steady weekly flow, $50K+ only", "Targeting tightened on real replies", "Report: which segment writes checks"] },
+      { "label": "MONTH 3  ·  JANUARY",     "title": "Prove-Out & Scale",   "bullets": ["Three months of data by segment", "Volume shifted to what converts", "Plan: add Chris, or new segments"] }
     ],
-    "band": { "label": "THE DECEMBER CHECKPOINT",
-              "text": "By the December review you'll have three months of real numbers on audience quality, meeting quality and conversions. That's your three-month opt-out checkpoint: continue, add a second account, or stop. When the Foundry's next venture is ready to raise, the same account team and engine are already calibrated to InsurTech capital." }
+    "band": { "label": "THE JANUARY REVIEW",
+              "text": "By January you’ll have three months of real numbers by partner and segment: who replies, who books, and who allocates. That answers the question you raised on the call, whether bigger checkwriters have an appetite for the fund. Month four puts the budget behind the winning segments, and the decision to continue or scale (add Chris’s profile for science investors) gets made on data." }
   },
 
   "pricing": {
-    "options": [ { "price": "$2,500", "unit": "1 account" }, { "price": "$3,000", "unit": "2 accounts" } ],
-    "term": "6-month term  ·  3-month opt-out",
+    "options": [ { "price": "$3,000", "unit": "month" } ],
+    "term": "4-month term  ·  Three partner profiles included",
     "bullets": [
-      "One LinkedIn profile, fully managed end to end",
-      "Full campaign execution, start to finish",
+      "Three LinkedIn profiles (Michael, John, Doug), fully managed",
+      "Full campaign execution, end to end",
       "Outreach, inbox management & follow-ups",
-      "Lead qualification, pre-call briefings & scheduling",
-      "The Reef retargeting & Startup Deal Desk feature",
-      "Profile optimization & messaging support",
-      "CRM, weekly reporting & continuous optimization"
+      "Qualification to your $50K minimum & pre-call briefings",
+      "The Reef retargeting & two Startup Deal Desk features",
+      "Profile optimization & branding to the fund",
+      "CRM, weekly reporting, A/B testing & optimization"
     ],
     "buys": { "label": "WHAT THAT BUYS", "bullets": [
-      "Add accounts as volume needs grow: $2,500 (1) → $3,000 (2) → $3,500 (3) → $4,000 (4) per month, same flat terms",
-      "Compare: investment bankers decline sub-$10M mandates; crowdfunding platforms cost 20–30% of the raise in marketing spend",
-      "One dedicated account manager and one CRM from day one, whether you're running one account or four",
-      "The three-month opt-out means the review before you commit further is made on real numbers",
-      "The same account team and engine are ready for each Foundry venture's raise when the time comes"
+      "Three partner profiles for the price of two: John’s profile was added so physicians hear from a physician",
+      "Three distinct networks (military, medicine, law) worked at once, with results reported by segment",
+      "One dedicated account manager, one CRM and one weekly report across all three partners",
+      "A clear answer by month three on which investor tier and segment actually allocates to the fund",
+      "Interest below your $50K minimum isn’t wasted: it’s routed to a separate group track you can pitch at once"
     ] }
   },
 
   "next_steps": {
     "cards": [
-      { "label": "1  ·  REVIEW",          "text": "Take this to your co-founders and send us the questions that come back. If it helps, Freizle will join a 20-minute call with your team to field the technical, targeting and compliance questions directly." },
-      { "label": "2  ·  SIGN & KICK OFF", "text": "We send the services agreement the same day you say yes. Onboarding starts that week: one 60-minute interview, and we connect your LinkedIn profile to our system, no passwords required." },
-      { "label": "3  ·  FIRST MEETINGS",  "text": "Your profile is live within two weeks of kickoff. The first qualified investor conversations land on your calendar in weeks three and four, then build to a steady weekly rhythm through your December checkpoint." }
+      { "label": "1  ·  REVIEW",          "text": "Michael, share this with Doug ahead of next week’s call. We’ll run it as a Q&A: bring every question that comes out of Doug’s review of other fundraising tools, and we’ll answer them directly." },
+      { "label": "2  ·  SIGN & KICK OFF", "text": "We send the services agreement the same day you say yes. Onboarding interviews with Michael, John and Doug start that week, and we connect the three LinkedIn profiles to our system." },
+      { "label": "3  ·  FIRST MEETINGS",  "text": "All three profiles are live within two weeks of kickoff. The first qualified investor conversations land on your calendars in weeks three and four, then build to a steady weekly rhythm through December and into the January review." }
     ],
     "band": { "label": "WHAT WE NEED FROM YOU",
-              "text": "Connect your LinkedIn account to our system (no passwords or login credentials required). Share your target list, past investor conversations and anyone who's already passed. One 60-minute onboarding interview. A Calendly link, and a do-not-contact list if there's anyone we should avoid. That's it. We handle the rest." }
+              "text": "Connect Michael’s, John’s and Doug’s LinkedIn accounts to our system (no passwords or login credentials required). Share the fund’s current offering materials, any investor lists and past conversations, and your existing investors so we exclude them. A 60-minute onboarding interview with each partner. A Calendly link for each of you, and a do-not-contact list. That’s it. We handle the rest." }
+  },
+
+  "deliverables": {
+    "number": "3,600+",
+    "unit": "LinkedIn touches / month, three profiles",
+    "text": "600–800 InMails and 600–800 connection invites per profile every month, from Michael’s, John’s and Doug’s accounts, in your voices, once fully warmed up. Every InMail credit in your Sales Navigator plans gets used."
   }
 }
