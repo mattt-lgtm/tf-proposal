@@ -1,0 +1,110 @@
+{
+  "_comment": "Fundraising proposal for PointNine Fragrance, Inc. (Brian Fox Krawczyk, Maria Ashe). From the Oct 20 2026 strategy call with Matt Tanton. Three LinkedIn profiles (Brian, Maria, Reign Hannah), $3,500/month, 4-month term, no opt-out. Proposal walkthrough Wed Oct 21, 3pm ET.",
+  "mode": "fundraising",
+  "output_file": "ThinkFISH_Proposal_PointNine_Fragrance.pptx",
+  "date": "October 2026",
+  "client": {
+    "display_name": "PointNine Fragrance, Inc.",
+    "short_name": "PointNine Fragrance",
+    "contacts": ["Brian", "Maria"],
+    "prepared_for": "Brian Fox Krawczyk & Maria Ashe"
+  },
+
+  "summary": {
+    "cards": [
+      { "label": "THE ASK",        "text": "$600K–$850K to take PointNine to its Q1 launch: the first production run of six fragrances in 9.5 mL and 50 mL, packaging, launch marketing and trade shows. Your year-one cash flow at $700K never goes negative. Minimum check $250K, so two or three investors, ideally led by a strategic who knows fragrance or luxury. Capital can land in two halves: inventory first, the balance at ship." },
+      { "label": "THE PLAN",       "text": "Three LinkedIn profiles (Brian’s, Maria’s and Reign Hannah’s), run end to end by ThinkFISH in your voice. Targeting investors who already understand prestige fragrance: beauty and luxury operator-angels, consumer-focused family offices, and sustainability-minded investors with recent exits. Every meeting screened against your $250K minimum and approved by you." },
+      { "label": "THE INVESTMENT", "text": "$3,500 per month, flat, covering all three profiles. Four-month term, matched to the raise window we discussed. No setup fee, no success fee, no commission, no transaction involvement." }
+    ],
+    "band": { "label": "WHAT TO EXPECT",
+              "text": "Outreach live within two weeks of kickoff. First qualified investor conversations in weeks three and four, building to a steady 3–6 qualified meetings per week across the three profiles from December, with weekly reporting throughout. One honest note: a first tranche in 30–45 days is unlikely from investors meeting you for the first time, and pre-revenue raises historically take 6–12 months from first outreach to capital in the bank. We can fill your calendars with right-sized investors ahead of the Q1 launch; when checks land depends on your process and their diligence, and we’d rather you hear that from us now." }
+  },
+
+  "gap": {
+    "narrative": "You’ve done what most pre-launch brands haven’t: the formula is locked with Mane, packaging and CADs are finished, a filler is in place, Saujet has signed on as launch partner, and every boutique you’ve walked into has said yes. What’s missing is capital, and the reason is structural. Your network runs deep in retail, product and celebrity, but it isn’t a network of investors writing $250K checks, and investors meeting you cold won’t wire in 30–45 days, however strong the numbers.",
+    "principle": "Your round is modest and the story is strong. The variable you control is how many right-sized investors, people who write $250K checks and already understand prestige fragrance margins, land on your calendars every week.",
+    "rows": [
+      "The brand is ready and retailers are saying yes, but the round has no committed investor yet, and the one industry investor in view is waiting on a house sale.",
+      "The first production run, the move to 50 mL and 9.5 mL across six fragrances, and the Q1 launch with Saujet all wait on the same $600K–$850K.",
+      "Two founders, two years in and over $300K of their own money committed, spending launch-critical weeks sourcing investors instead of selling in.",
+      "Every week without a pipeline compresses the raise into the launch window and raises the pressure to take whoever moves first, not the partner you want."
+    ]
+  },
+
+  "icp": {
+    "segments": [
+      { "name": "Beauty & Fragrance Operator-Angels",       "why": "Exited founders and executives from prestige beauty, fragrance and luxury. They read a $17 cost on a $355 bottle and need no education on the category." },
+      { "name": "Luxury & Consumer Family Offices",         "why": "Family offices with consumer, luxury or retail holdings that can lead a $250K+ check and open doors to the department stores on your list." },
+      { "name": "Clean Beauty & Sustainability Investors",  "why": "Impact and ESG-minded angels drawn to alcohol-free formulas, headspace oils, upcycled packaging, refills and two charity fragrances." },
+      { "name": "Consumer-Brand Angels with Recent Exits",  "why": "Investors who recently exited a DTC or CPG brand, understand multi-channel launches, and are actively looking for the next one." }
+    ],
+    "note": "These segments are our starting point. A fuller outline of investor targets, including check sizes, geographies and exclusions, will be planned with you during onboarding."
+  },
+
+  "architecture": {
+    "title": "Three Voices, One Raise",
+    "subtitle": "HOW THREE PROFILES COVER ONE ROUND",
+    "cards": [
+      { "label": "BRIAN  ·  PRODUCT & TRACK RECORD", "text": "Brian’s profile leads with 41 years in product development: ten years running his own lab, Genealogy Beauty, 23 InStyle best-product awards, and lines built for Shoppers Drug Mart, MAC, Chanel and L’Oréal. The message for beauty operator-angels and family offices who back a founder’s record." },
+      { "label": "MARIA  ·  COMMERCIAL TRACTION",     "text": "Maria’s profile carries the commercial story: Saujet, the distributor that brought Creed and Santa Maria Novella to the US, signing on as launch partner, boutiques in New York and Amsterdam ready to stock, and two pre-mortems behind the plan. The message for investors who want demand before a pre-revenue check." },
+      { "label": "REIGN  ·  BRAND & REACH",          "text": "Reign Hannah, PointNine’s global brand ambassador, reaches investors the founders’ profiles won’t: lifestyle, entertainment and consumer capital that backs brands through people. We build up her profile in onboarding so it carries the brand as credibly as the other two." }
+    ],
+    "band": { "label": "WHY ONE RETAINER COVERS ALL THREE",
+              "text": "One dedicated account manager, one CRM, one weekly report split by profile. Three senders with different backgrounds widen the range of investors who respond, by geography, age and network, without tripling the work on your side. We’ll also add company pages for past ventures so investors who click through find the track record. The profile-to-message mapping above is our starting assumption; we confirm it with you in onboarding." }
+  },
+
+  "expect": {
+    "cards": [
+      { "label": "OUTREACH VOLUME",        "number": "3,600+", "unit": "LinkedIn touches / month, three profiles",  "text": "We aim to send 600–800 InMails and 600–800 connection invites per profile every month from Brian’s, Maria’s and Reign’s accounts, once warmed up. Every touch scored and hand-reviewed first." },
+      { "label": "QUALIFIED MEETINGS",     "number": "3–6",    "unit": "per week at steady state (month 2 onward)", "text": "Conservatively 1–2 per profile per week once calibrated, screened against your $250K minimum. Not a guarantee, but the range we deliver consistently." },
+      { "label": "TIME TO FIRST MEETINGS", "number": "3–4",    "unit": "weeks from kickoff to first booked calls",  "text": "Weeks one and two are setup: ICP, audiences, scripts, profile warm-up. Live outreach starts in week three, and the first replies and bookings follow within days." }
+    ]
+  },
+
+  "ninety_days": {
+    "columns": [
+      { "label": "WEEKS 1-2  ·  LATE OCT", "title": "Setup & Calibration", "bullets": ["Interviews: Brian, Maria, Reign", "ICP built around $250K+ checks", "Reign’s profile built up and warmed", "Scripts approved in your voice"] },
+      { "label": "WEEKS 3-4  ·  MID NOV",  "title": "First Live Outreach", "bullets": ["Live on all three profiles", "First replies, first booked meetings", "A/B tests on openers per profile"] },
+      { "label": "MONTH 2  ·  DECEMBER",   "title": "Steady Flow",         "bullets": ["Steady weekly flow of $250K+ investors", "Targeting tightened on real replies", "Segment reporting: what converts"] },
+      { "label": "MONTH 3  ·  JANUARY",    "title": "Prove-Out",           "bullets": ["Three months of data reviewed", "Volume weighted to best segments", "Month four planned around launch"] }
+    ],
+    "band": { "label": "MONTH FOUR  ·  FEBRUARY",
+              "text": "The term runs four months, matched to the raise window we discussed. By the end of January you’ll have three months of real numbers on which segments and which profiles convert, and month four puts full volume behind them as the Q1 launch approaches. At the end of February we review together and decide, on data, whether to extend into the next round or the next brand." }
+  },
+
+  "pricing": {
+    "options": [ { "price": "$3,500", "unit": "month" } ],
+    "term": "4-month term  ·  Three profiles  ·  Flat fee, nothing else",
+    "bullets": [
+      "Three LinkedIn profiles (Brian, Maria, Reign), fully managed",
+      "Full investor campaign execution, end to end",
+      "Outreach, inbox management & follow-ups",
+      "Lead qualification, pre-call briefings & scheduling",
+      "The Reef retargeting & Startup Deal Desk feature",
+      "Profile optimization, including building up Reign’s",
+      "CRM, weekly reporting, A/B testing & optimization"
+    ],
+    "buys": { "label": "WHAT THAT BUYS", "bullets": [
+      "Three senders on one retainer: three audiences, three scorecards, one team and one weekly report",
+      "Compare: investment bankers decline sub-$10M mandates; crowdfunding platforms cost 20–30% of the raise in marketing spend",
+      "Investors screened against your $250K minimum before they reach your calendar, so your weeks go to selling in, not sourcing",
+      "Relationships that carry forward: an investor who passes on this round may be right for the masstige line Brian described"
+    ] }
+  },
+
+  "next_steps": {
+    "cards": [
+      { "label": "1  ·  REVIEW",          "text": "We’ll walk through this together on Wednesday, October 21 at 3pm ET. Afterwards, take it to the rest of the team and send us the questions that come back. If it helps, Matt or Freizle will join a short call with anyone else who needs to sign off." },
+      { "label": "2  ·  SIGN & KICK OFF", "text": "We send the services agreement the same day you say yes. Onboarding interviews with Brian, Maria and Reign start the following week, alongside profile work on all three accounts and an investor ICP built around your $250K minimum." },
+      { "label": "3  ·  FIRST MEETINGS",  "text": "All three profiles are live within two weeks of kickoff. The first qualified investor conversations land on your calendars in mid-November, then build to a steady weekly rhythm through December and January, ahead of the Q1 launch." }
+    ],
+    "band": { "label": "WHAT WE NEED FROM YOU",
+              "text": "Connect Brian’s, Maria’s and Reign’s LinkedIn accounts to our system (no passwords or login credentials required). Share the P&L, cash flow and deck you walked us through, plus any investor names or past conversations, including the industry investor already in view so we don’t contact him. One 60-minute onboarding interview, a Calendly link for each of you, and a do-not-contact list. That’s it. We handle the rest." }
+  },
+
+  "deliverables": {
+    "number": "3,600+",
+    "unit": "LinkedIn touches / month, three profiles",
+    "text": "600–800 InMails and 600–800 connection invites per profile every month, from Brian’s, Maria’s and Reign’s accounts, in your voice, once fully warmed up. Every InMail credit in your Sales Navigator plans gets used."
+  }
+}
