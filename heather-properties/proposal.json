@@ -1,0 +1,114 @@
+{
+  "_comment": "Fundraising proposal for Heather Properties (Ted Johnson, Jesse Glommen, Hector Figueroa Giraud). From the Oct 21 2026 strategy call with Matt. Three LinkedIn profiles; Hector's (~100 connections) is warmed to 500+ during month 1 and phased in. $3,000/mo for all three if signed by Oct 31 (list $4,000), 4-month term. Company spelling confirmed by the seller (heather.properties).",
+  "mode": "fundraising",
+  "output_file": "ThinkFISH_Proposal_Heather_Properties.pptx",
+  "date": "October 2026",
+  "client": {
+    "display_name": "Heather Properties",
+    "short_name": "Heather Properties",
+    "contacts": ["Ted", "Jesse", "Hector"],
+    "prepared_for": "Ted Johnson, Jesse Glommen & Hector Figueroa Giraud"
+  },
+
+  "summary": {
+    "cards": [
+      { "label": "THE GOAL",       "text": "A repeatable, scalable way to fill the Heather Properties fund beyond friends, family and the country-club network. You could absorb $30M a year; the plan is to grow incrementally with the book, aiming for 6–10 aligned investors writing $150K+ checks rather than 30–50 small ones, on an 8%, three-year, interest-only note." },
+      { "label": "THE PLAN",       "text": "Three LinkedIn profiles (Ted, Jesse and Hector), run end to end by ThinkFISH in your voice. We target mission-aligned, accredited real estate investors who already write $150K–$500K checks, starting with our vetted investor database, then new 2nd- and 3rd-degree connections. You approve every meeting and run every close." },
+      { "label": "THE INVESTMENT", "text": "$3,000 per month for all three profiles, if signed by October 31 (list price $4,000 for three). Four-month initial term. No setup fee, no success fee, no commission, no transaction involvement." }
+    ],
+    "band": { "label": "WHAT TO EXPECT",
+              "text": "Ted’s and Jesse’s profiles go live within two weeks of kickoff, with first qualified investor conversations in weeks three and four. Hector’s profile is built up to 500+ connections during month one and joins full outreach in month two, taking the campaign to 3–6 qualified meetings per week across all three. One honest note: investors who don’t know you yet take longer than your network does. Budget 6–12 months from first outreach to capital committed at scale. We would rather you hear that from us now." }
+  },
+
+  "gap": {
+    "narrative": "You’ve done the hard part: a $7M book, a model built on underwriting rather than convenience, bank collateral at 75% LTV with customers bringing 10–20%, and a price that never moves. Every dollar so far came from people who already know you. That isn’t a weakness of the fund. It’s a ceiling built into founder-led raising: the network only grows as fast as Ted and Jesse can spend their time on it, and that time belongs to underwriting, realtors and originating deals.",
+    "principle": "Raising a fund is relationship-built over time, not a 60-day sprint. The variable you control is how many qualified, mission-aligned investor conversations enter the top of your funnel every week, without taking you away from the deals.",
+    "rows": [
+      "Capital comes in through friends, family and the country club. It works, but it isn’t scalable, structured or provable to your banks.",
+      "Demand is already there: you could absorb $30M a year. The book can only grow as fast as committed fund capital lets it.",
+      "“I can’t be out producing … if I’m out raising money.” Two full-time jobs on the same people: originating deals and wooing investors.",
+      "Realtors send a client you can’t fund. Each one you turn away weakens the referral relationships the whole origination engine runs on."
+    ]
+  },
+
+  "icp": {
+    "segments": [
+      { "name": "Real Estate Debt & Note Investors",        "why": "Accredited individuals and family offices already writing $150K–$500K checks into real estate debt, who read an 8% collateralized note as part of their allocation." },
+      { "name": "Impact & Housing-Mission Investors",       "why": "Investors drawn to affordable home ownership. Your stories (bridging a family to down-payment assistance, a path out of divorce) are why they say yes." },
+      { "name": "SFR & Rent-to-Own Familiar Capital",       "why": "Investors in single-family rental, lease-option or contract-for-deed funds who understand the model and can see why yours actually leads to ownership." },
+      { "name": "Midwest Business Owners & Operators",      "why": "Twin Cities and Midwest owners, executives and exited founders who know the market, value a local operator and stay invested for years." },
+      { "name": "Family Offices & Syndicate Leads",         "why": "Single-family offices and syndicate leads who bring others into an SPV: one relationship, several checks, the season-tickets model." }
+    ],
+    "note": "These segments are our starting point. A fuller outline of investor targets, including check sizes, geographies, accreditation and exclusions, will be built with you during onboarding."
+  },
+
+  "architecture": {
+    "title": "Three Profiles, One Fund",
+    "subtitle": "WHO CARRIES WHICH CONVERSATION, AND WHY",
+    "cards": [
+      { "label": "TED  ·  OWNER & OPERATOR",    "text": "Ted’s profile carries the vision and the structure: the owner, an IT executive turned founder, building a fund with tranches and tiers that’s easy to administer. It leads with family-office, operator and syndicate investors. Profile updated so Heather Properties sits front and center." },
+      { "label": "JESSE  ·  UNDERWRITING",      "text": "Jesse’s profile carries the credit story: a mortgage broker and former banker who underwrites every customer to a path to ownership. It speaks to debt and note investors who want to see collateral, profitability and owner-occupied SFRs before they talk alignment." },
+      { "label": "HECTOR  ·  FROM MONTH 2","text": "Hector’s profile is grown from ~100 to 500+ connections during month one, then joins full outreach, adding a third background and a third voice. Different backgrounds draw different responses, so each profile gets its own segments and scripts." }
+    ],
+    "band": { "label": "WHY ONE RETAINER COVERS ALL THREE",
+              "text": "The engine is shared: one dedicated account manager, one CRM, one weekly report split by profile. Every profile also draws on our internal database of 10k+ vetted investors and a feature in Startup Deal Desk, our 84k-subscriber investor newsletter. Your 1st-degree network is off-limits unless you open it, and your do-not-contact list (cousin Fred included) always applies. The profile-to-segment mapping above is our starting point, confirmed with you at onboarding." }
+  },
+
+  "expect": {
+    "cards": [
+      { "label": "OUTREACH VOLUME",        "number": "4,800",  "unit": "LinkedIn touches / month, three profiles",   "text": "About 800 InMails and 800 connection invites per profile each month once warmed up: Ted and Jesse from launch, Hector from month two. Every touch scored and hand-reviewed before it goes out." },
+      { "label": "QUALIFIED MEETINGS",     "number": "3–6",    "unit": "per week at steady state, three profiles",  "text": "Conservatively 1–2 per profile per week once calibrated (2–4 from Ted and Jesse alone in month one). Not a guarantee, but the range we deliver consistently." },
+      { "label": "TIME TO FIRST MEETINGS", "number": "3–4",    "unit": "weeks from kickoff to first booked calls",  "text": "Weeks one and two are setup: segments, retargeting our database, scripts in your voice, profile updates. Live outreach starts in week three, and the first bookings follow within days." }
+    ],
+    "band": { "label": "WHAT “QUALIFIED” MEANS, AND THE HONEST TIMELINE",
+              "text": "A qualified meeting is an accredited individual, fund or family office with a history of similar real estate investments, who passed scoring and human review, confirmed your $150K minimum on booking, and whose briefing you approved. Investors new to you take longer than your network: plan on several meetings per close and 6–12 months from first outreach to committed capital at scale. We’ll fill the top of the funnel; the close is yours." }
+  },
+
+  "ninety_days": {
+    "columns": [
+      { "label": "WEEKS 1-2  ·  EARLY NOV", "title": "Setup & Calibration", "bullets": ["Interviews: Ted, Jesse and Hector", "Segments built, database retargeted", "Ted’s profile leads with Heather", "Hector’s warm-up begins"] },
+      { "label": "WEEKS 3-4  ·  LATE NOV",  "title": "First Live Outreach", "bullets": ["Ted and Jesse live on LinkedIn", "First replies, first booked meetings", "Pitch run-through with our CEO"] },
+      { "label": "MONTH 2  ·  DECEMBER",    "title": "Three Profiles Live", "bullets": ["Hector joins at 500+ connections", "Targeting tightened on real replies", "Segment reporting: what converts"] },
+      { "label": "MONTH 3  ·  JANUARY",     "title": "Prove-Out",           "bullets": ["Review: three months of data", "Decide on opening 1st-degree", "Plan month four and beyond"] }
+    ],
+    "band": { "label": "THE FOUR-MONTH DECISION",
+              "text": "By the end of the four-month term you’ll have real numbers on audience quality, meeting quality and what closes, split by profile and by segment. That’s when you decide whether to continue, scale (open the 1st-degree network, add a profile) or stop. The decision gets made on data, not on faith." }
+  },
+
+  "pricing": {
+    "options": [ { "price": "$3,000", "unit": "month, 3 profiles" } ],
+    "term": "4-month term  ·  Signed by Oct 31  ·  List price $4,000",
+    "bullets": [
+      "Three LinkedIn profiles (Ted, Jesse, Hector), fully managed",
+      "Full campaign execution for the fund raise, end to end",
+      "Outreach, inbox management & follow-ups, in your voice",
+      "Lead qualification, pre-call briefings & scheduling",
+      "The Reef retargeting & Startup Deal Desk feature",
+      "Profile optimization, pitch, deck & data-room guidance",
+      "CRM, weekly reporting, A/B testing & optimization"
+    ],
+    "buys": { "label": "WHAT THAT BUYS", "bullets": [
+      "Three profiles for the price of two: $3,000 instead of $4,000, signed by October 31",
+      "Ted and Jesse back on deals and realtors while we do the lift of finding and booking investors",
+      "A process you can show your banks: structured, documented, repeatable, not founder-dependent",
+      "Feedback from investors who write checks: a pitch run-through with our CEO, a family-office real estate investor",
+      "Flat fee, no commission: opening your 1st-degree network later costs nothing extra"
+    ] }
+  },
+
+  "next_steps": {
+    "cards": [
+      { "label": "1  ·  REVIEW",          "text": "Take this deck to the team. Ted, Jesse and Hector, send us the questions that come back, and we’ll work through them on our call Tuesday, October 27, at 9:30 Central. The services agreement and the process video come with this deck." },
+      { "label": "2  ·  SIGN & KICK OFF", "text": "Sign by October 31 to lock in three profiles at $3,000. We book onboarding the same week: interviews with Ted, Jesse and Hector, all three LinkedIn profiles connected, Hector’s warm-up started." },
+      { "label": "3  ·  FIRST MEETINGS",  "text": "Ted’s and Jesse’s profiles are live within two weeks of kickoff. The first qualified investor conversations land in weeks three and four, Hector joins in December, and the flow builds toward the four-month review." }
+    ],
+    "band": { "label": "WHAT WE NEED FROM YOU",
+              "text": "Connect Ted’s, Jesse’s and Hector’s LinkedIn accounts to our system (no passwords required). Heather Properties at the top of Ted’s profile. Your investor deck, one-pager and data room as they come together. One 60-minute onboarding interview with the three of you. A Calendly link for each profile, and a do-not-contact list for anyone in your network we should leave alone. We handle the rest." }
+  },
+
+  "deliverables": {
+    "number": "4,800",
+    "unit": "LinkedIn touches / month, three profiles",
+    "text": "About 800 InMails and 800 connection invites per profile every month, from Ted’s, Jesse’s and Hector’s accounts, in your voice, once fully warmed up. Hector’s volume ramps in from month two."
+  }
+}
