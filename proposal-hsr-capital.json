@@ -12,22 +12,22 @@
 
   "summary": {
     "cards": [
-      { "label": "THE GOAL",       "text": "Grow HSR’s investor base beyond one person’s network ahead of a $50M+ raise year: the Clark County pipeline plus $15–20M for Generation Homes’ Idaho expansion, with capital needed by the end of Q2 2027. New relationships take time, so they need to start in Q1. Minimum check $200K; most land between $200K and $700K." },
+      { "label": "THE GOAL",       "text": "Grow HSR’s investor base beyond one person’s network ahead of a $50M+ raise year: the Washington pipeline plus $15–20M for Generation Homes’ Idaho expansion, with capital needed by the end of Q2 2027. New relationships take time, so they need to start in Q1. Minimum check $200K; most land between $200K and $700K." },
       { "label": "THE PLAN",       "text": "Karson’s LinkedIn profile, run end to end by ThinkFISH in his voice, building new relationships with accredited real estate investors in the Pacific Northwest, Idaho and the coastal markets looking for growth-market exposure. Relationship-first, never a solicitation of the offering. Every meeting pre-qualified and approved by you." },
-      { "label": "THE INVESTMENT", "text": "$3,000 per month, flat, on a four-month term. No setup fee, no success fee, no commission, no points on capital raised, no transaction involvement. A team behind your capital raiser instead of a second hire, and room to add Dustin’s profile when you want more volume." }
+      { "label": "THE INVESTMENT", "text": "$3,000 per month for Karson’s profile, or $3,500 with Dustin’s profile added. Flat, on a four-month term. No setup fee, no success fee, no commission, no points on capital raised, no transaction involvement. A team behind your capital raiser instead of a second hire." }
     ],
     "band": { "label": "WHAT TO EXPECT",
               "text": "Outreach live within two weeks of kickoff. First qualified investor conversations in weeks three and four, building to a steady 1–2 qualified meetings per week from Karson’s profile from month two, more once a second profile is added. Weekly reporting throughout. One honest note for the partners: these are new relationships, not friends and family, so first meeting to signed note takes longer than your warm network does. Plan on months, not weeks. That is why we’d start in January for a Q2 close, and we’d rather you hear it from us now." }
   },
 
   "gap": {
-    "narrative": "HSR has done the hard part: $40M of investor capital, a 2020 investor who has grown from $1M to $5M, notes that roll like season tickets, and $25M of this year’s $30M raised by one person. The constraint is structural, not the offering. Because the notes can’t be generally solicited, every investor has to come through a relationship, and one person’s 3,500 connections, mutuals and tee times have a ceiling. Next year needs $50M+ from that same network.",
+    "narrative": "HSR has done the hard part: $40M of investor capital, an investor who started with $1M in 2020 and is now at $5M, notes that roll like season tickets, and $25M of this year’s $30M raised by one person. The constraint is structural, not the offering. Because the notes can’t be generally solicited, every investor has to come through a relationship, and one person’s 3,500 connections, mutuals and tee times have a ceiling. Next year needs around $50M.",
     "principle": "Private capital is a relationship game at volume. Inside 506 rules, the variable you control is how many new, qualified relationships with accredited real estate investors start every week, long before the next note needs to be filled.",
     "rows": [
       "One capital raiser working a warm network that’s close to tapped: LinkedIn mutuals, referrals and country-club tee times, with a month-or-two slump between hot streaks.",
-      "Clark County plus $15–20M for Idaho puts next year at $50M+. Every project going vertical waits on notes being placed, and Idaho has no investor network yet.",
+      "Washington plus $15–20M for Idaho puts next year at around $50M, all raised by one person. Idaho is a new market, and HSR has no investor network there yet.",
       "Karson carries every raise alone, and the fallback on the table is relocating to Boise for three or four months to build an Idaho network one country club at a time.",
-      "With $15M rolling off and a 10–20% fallout rate, gaps surface 45–60 days out. That’s too late to start new relationships, so the shortfall lands on credit lines or partner capital."
+      "About $15M rolls off mid-to-late Q1. It may all recycle, or 10–20% may not. By the time the gap is known, it’s too late to start the new relationships needed to fill it."
     ]
   },
 
@@ -46,8 +46,8 @@
     "title": "One Raiser Today, Two Profiles to Scale",
     "subtitle": "HOW THE CAMPAIGN GROWS WITH THE RAISE",
     "cards": [
-      { "label": "KARSON  ·  CORE CAMPAIGN",     "text": "Karson’s profile carries the core campaign: Pacific Northwest real estate investors for the Clark County pipeline, plus the first Idaho and coastal segments. 3,500 connections and a capital-markets background give relationship-first outreach credibility. Every meeting lands on his calendar, already briefed." },
-      { "label": "DUSTIN  ·  WHEN YOU SCALE",    "text": "Adding Dustin’s profile, with roughly 9,000 connections, is the fastest way to add volume, for example by pointing it at Idaho and Treasure Valley capital for the Generation Homes expansion. Its own audience, scripts and scorecard. Meetings can still route to Karson, so the partners’ time isn’t spent prospecting." }
+      { "label": "KARSON  ·  CORE CAMPAIGN",     "text": "Karson’s profile carries the core campaign: Pacific Northwest real estate investors for the Washington pipeline, plus the first Idaho and coastal segments. 3,500 connections and an investment background give relationship-first outreach credibility. Every meeting lands on his calendar, already briefed." },
+      { "label": "DUSTIN  ·  WHEN YOU SCALE",    "text": "Adding Dustin’s profile, with roughly 9,000 connections, is the fastest way to add volume, for $500 more a month, for example by pointing it at Idaho and Treasure Valley capital for the Generation Homes expansion. Its own audience, scripts and scorecard. Meetings can still route to Karson, so the partners’ time isn’t spent prospecting." }
     ],
     "band": { "label": "WHY START WITH ONE",
               "text": "Starting on Karson’s profile proves the targeting and the meeting quality on real numbers before the partners commit a second account. The engine is shared either way: one account manager, one CRM, one weekly report. The profile-to-market mapping above is our starting assumption from the call; we’ll confirm it with you in onboarding." }
@@ -75,10 +75,10 @@
   },
 
   "pricing": {
-    "options": [ { "price": "$3,000", "unit": "month" } ],
-    "term": "4-month term  ·  Karson’s profile  ·  add a second any time",
+    "options": [ { "price": "$3,000", "unit": "Karson" }, { "price": "$3,500", "unit": "Karson + Dustin" } ],
+    "term": "4-month term  ·  add Dustin’s profile any time",
     "bullets": [
-      "Karson’s LinkedIn profile, fully managed end to end",
+      "Karson’s profile (plus Dustin’s), fully managed end to end",
       "Full campaign execution, start to finish",
       "Outreach, inbox management & follow-ups",
       "Lead qualification, pre-call briefings & scheduling",
@@ -88,7 +88,7 @@
     ],
     "buys": { "label": "WHAT THAT BUYS", "bullets": [
       "A full outreach team behind Karson for less than a second full-time capital raiser, with no hiring, training or ramp-up",
-      "Compare: investment banks and broker-dealers charge retainers plus 3–5% of the capital raised. We take no points",
+      "Dustin’s 9,000-connection network added for $500 more a month, with its own audience and scripts",
       "New investors who roll their notes like your existing ones keep paying back on every future project",
       "An Idaho investor network built remotely, before Generation Homes needs the capital",
       "A clean four-month read on real numbers before the partners decide to continue or scale"
@@ -97,7 +97,7 @@
 
   "next_steps": {
     "cards": [
-      { "label": "1  ·  REVIEW",          "text": "Karson, take this to the partners and send us the questions that come back. In December or January, Matt and our CEO will join a short meeting with the partners to walk through the process, compliance and the numbers directly." },
+      { "label": "1  ·  REVIEW",          "text": "Karson, take this to the partners and send us the questions that come back. In December or January, Matt and Ben Padnos, our CEO, will join a short meeting with the partners to walk through the process, compliance and the numbers directly." },
       { "label": "2  ·  SIGN & KICK OFF", "text": "We send the services agreement the same day you say yes. Onboarding starts that week: one 60-minute interview with Karson, and we connect his LinkedIn profile, no passwords required. Setup in December puts outreach live in early January." },
       { "label": "3  ·  FIRST MEETINGS",  "text": "Karson’s profile is live within two weeks of kickoff. The first qualified investor conversations land in weeks three and four, then build to a steady weekly rhythm through February and March, ahead of the Q2 close and the Idaho raise." }
     ],
